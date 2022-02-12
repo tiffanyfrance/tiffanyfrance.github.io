@@ -1,0 +1,7568 @@
+[
+  [
+    {
+      "Rank": "334",
+      "Word": "moon",
+      "Word in English": "moon",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.3708"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "462",
+      "Word": "playing",
+      "Word in English": "playing",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.4709"
+    },
+    {
+      "Rank": "350",
+      "Word": "play",
+      "Word in English": "play",
+      "Happiness Score": "7.26",
+      "Standard Deviation of Ratings": "1.2257"
+    },
+    {
+      "Rank": "350",
+      "Word": "play",
+      "Word in English": "play",
+      "Happiness Score": "7.26",
+      "Standard Deviation of Ratings": "1.2257"
+    },
+    {
+      "Rank": "350",
+      "Word": "play",
+      "Word in English": "play",
+      "Happiness Score": "7.26",
+      "Standard Deviation of Ratings": "1.2257"
+    },
+    {
+      "Rank": "86",
+      "Word": "wonderful",
+      "Word in English": "wonderful",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "356",
+      "Word": "book",
+      "Word in English": "book",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.2048"
+    },
+    {
+      "Rank": "495",
+      "Word": "quality",
+      "Word in English": "quality",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.4178"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "196",
+      "Word": "pleasant",
+      "Word in English": "pleasant",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.2162"
+    },
+    {
+      "Rank": "90",
+      "Word": "family",
+      "Word in English": "family",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.3099"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "171",
+      "Word": "interesting",
+      "Word in English": "interesting",
+      "Happiness Score": "7.52",
+      "Standard Deviation of Ratings": "1.1822"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "303",
+      "Word": "eating",
+      "Word in English": "eating",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.7757"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "9861",
+      "Word": "boring",
+      "Word in English": "boring",
+      "Happiness Score": "2.9",
+      "Standard Deviation of Ratings": "1.1473"
+    },
+    {
+      "Rank": "257",
+      "Word": "nice",
+      "Word in English": "nice",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.5104"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "538",
+      "Word": "sandwich",
+      "Word in English": "sandwich",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3763"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "93",
+      "Word": "romantic",
+      "Word in English": "romantic",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.1959"
+    },
+    {
+      "Rank": "93",
+      "Word": "romantic",
+      "Word in English": "romantic",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.1959"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "93",
+      "Word": "romantic",
+      "Word in English": "romantic",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.1959"
+    },
+    {
+      "Rank": "131",
+      "Word": "excitement",
+      "Word in English": "excitement",
+      "Happiness Score": "7.62",
+      "Standard Deviation of Ratings": "1.6523"
+    },
+    {
+      "Rank": "190",
+      "Word": "romance",
+      "Word in English": "romance",
+      "Happiness Score": "7.5",
+      "Standard Deviation of Ratings": "1.4321"
+    },
+    {
+      "Rank": "10128",
+      "Word": "divorce",
+      "Word in English": "divorce",
+      "Happiness Score": "2.18",
+      "Standard Deviation of Ratings": "1.32"
+    },
+    {
+      "Rank": "517",
+      "Word": "memories",
+      "Word in English": "memories",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.1925"
+    },
+    {
+      "Rank": "61",
+      "Word": "heaven",
+      "Word in English": "heaven",
+      "Happiness Score": "7.86",
+      "Standard Deviation of Ratings": "1.578"
+    },
+    {
+      "Rank": "538",
+      "Word": "sandwich",
+      "Word in English": "sandwich",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3763"
+    },
+    {
+      "Rank": "303",
+      "Word": "eating",
+      "Word in English": "eating",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.7757"
+    },
+    {
+      "Rank": "436",
+      "Word": "devoted",
+      "Word in English": "devoted",
+      "Happiness Score": "7.16",
+      "Standard Deviation of Ratings": "1.3607"
+    },
+    {
+      "Rank": "426",
+      "Word": "helping",
+      "Word in English": "helping",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.6374"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "184",
+      "Word": "extraordinary",
+      "Word in English": "extraordinary",
+      "Happiness Score": "7.5",
+      "Standard Deviation of Ratings": "1.374"
+    },
+    {
+      "Rank": "145",
+      "Word": "goodness",
+      "Word in English": "goodness",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.3716"
+    },
+    {
+      "Rank": "373",
+      "Word": "reward",
+      "Word in English": "reward",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.8905"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "373",
+      "Word": "reward",
+      "Word in English": "reward",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.8905"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "61",
+      "Word": "heaven",
+      "Word in English": "heaven",
+      "Happiness Score": "7.86",
+      "Standard Deviation of Ratings": "1.578"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "532",
+      "Word": "grand",
+      "Word in English": "grand",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3614"
+    },
+    {
+      "Rank": "548",
+      "Word": "daughter",
+      "Word in English": "daughter",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.8066"
+    },
+    {
+      "Rank": "282",
+      "Word": "respect",
+      "Word in English": "respect",
+      "Happiness Score": "7.34",
+      "Standard Deviation of Ratings": "1.6113"
+    },
+    {
+      "Rank": "378",
+      "Word": "appreciate",
+      "Word in English": "appreciate",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "388",
+      "Word": "health",
+      "Word in English": "health",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2501"
+    },
+    {
+      "Rank": "1",
+      "Word": "happiness",
+      "Word in English": "happiness",
+      "Happiness Score": "8.44",
+      "Standard Deviation of Ratings": "0.9723"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "503",
+      "Word": "useful",
+      "Word in English": "useful",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.1995"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "184",
+      "Word": "extraordinary",
+      "Word in English": "extraordinary",
+      "Happiness Score": "7.5",
+      "Standard Deviation of Ratings": "1.374"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "388",
+      "Word": "health",
+      "Word in English": "health",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2501"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "90",
+      "Word": "family",
+      "Word in English": "family",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.3099"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "238",
+      "Word": "dinner",
+      "Word in English": "dinner",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1429"
+    },
+    {
+      "Rank": "196",
+      "Word": "pleasant",
+      "Word in English": "pleasant",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.2162"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "10213",
+      "Word": "kill",
+      "Word in English": "kill",
+      "Happiness Score": "1.56",
+      "Standard Deviation of Ratings": "1.0529"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10213",
+      "Word": "kill",
+      "Word in English": "kill",
+      "Happiness Score": "1.56",
+      "Standard Deviation of Ratings": "1.0529"
+    },
+    {
+      "Rank": "112",
+      "Word": "friend",
+      "Word in English": "friend",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "112",
+      "Word": "friend",
+      "Word in English": "friend",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "3",
+      "Word": "happy",
+      "Word in English": "happy",
+      "Happiness Score": "8.3",
+      "Standard Deviation of Ratings": "0.9949"
+    },
+    {
+      "Rank": "455",
+      "Word": "home",
+      "Word in English": "home",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.8296"
+    },
+    {
+      "Rank": "61",
+      "Word": "heaven",
+      "Word in English": "heaven",
+      "Happiness Score": "7.86",
+      "Standard Deviation of Ratings": "1.578"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "459",
+      "Word": "opportunity",
+      "Word in English": "opportunity",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.7144"
+    },
+    {
+      "Rank": "10095",
+      "Word": "hate",
+      "Word in English": "hate",
+      "Happiness Score": "2.34",
+      "Standard Deviation of Ratings": "1.8802"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "198",
+      "Word": "smart",
+      "Word in English": "smart",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.3738"
+    },
+    {
+      "Rank": "198",
+      "Word": "smart",
+      "Word in English": "smart",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.3738"
+    },
+    {
+      "Rank": "232",
+      "Word": "perfect",
+      "Word in English": "perfect",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "10216",
+      "Word": "death",
+      "Word in English": "death",
+      "Happiness Score": "1.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "257",
+      "Word": "nice",
+      "Word in English": "nice",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.5104"
+    },
+    {
+      "Rank": "244",
+      "Word": "thanks",
+      "Word in English": "thanks",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.5119"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "289",
+      "Word": "comfortable",
+      "Word in English": "comfortable",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.0962"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "312",
+      "Word": "money",
+      "Word in English": "money",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.8434"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "312",
+      "Word": "money",
+      "Word in English": "money",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.8434"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "161",
+      "Word": "gold",
+      "Word in English": "gold",
+      "Happiness Score": "7.56",
+      "Standard Deviation of Ratings": "1.1095"
+    },
+    {
+      "Rank": "10097",
+      "Word": "grief",
+      "Word in English": "grief",
+      "Happiness Score": "2.33",
+      "Standard Deviation of Ratings": "1.784"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "257",
+      "Word": "nice",
+      "Word in English": "nice",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.5104"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "9901",
+      "Word": "terrible",
+      "Word in English": "terrible",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8111"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "112",
+      "Word": "friend",
+      "Word in English": "friend",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "10079",
+      "Word": "ill",
+      "Word in English": "ill",
+      "Happiness Score": "2.42",
+      "Standard Deviation of Ratings": "1.2304"
+    },
+    {
+      "Rank": "10153",
+      "Word": "suffer",
+      "Word in English": "suffer",
+      "Happiness Score": "2.08",
+      "Standard Deviation of Ratings": "1.3827"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "388",
+      "Word": "health",
+      "Word in English": "health",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2501"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "10206",
+      "Word": "die",
+      "Word in English": "die",
+      "Happiness Score": "1.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "10173",
+      "Word": "illness",
+      "Word in English": "illness",
+      "Happiness Score": "2",
+      "Standard Deviation of Ratings": "1.178"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "388",
+      "Word": "health",
+      "Word in English": "health",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2501"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "233",
+      "Word": "saturday",
+      "Word in English": "saturday",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "430",
+      "Word": "promise",
+      "Word in English": "promise",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.1899"
+    },
+    {
+      "Rank": "233",
+      "Word": "saturday",
+      "Word in English": "saturday",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "5",
+      "Word": "laugh",
+      "Word in English": "laugh",
+      "Happiness Score": "8.22",
+      "Standard Deviation of Ratings": "1.3746"
+    },
+    {
+      "Rank": "9957",
+      "Word": "worse",
+      "Word in English": "worse",
+      "Happiness Score": "2.7",
+      "Standard Deviation of Ratings": "1.4178"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "9842",
+      "Word": "nervous",
+      "Word in English": "nervous",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.3311"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "380",
+      "Word": "confidence",
+      "Word in English": "confidence",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2824"
+    },
+    {
+      "Rank": "112",
+      "Word": "friend",
+      "Word in English": "friend",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "3",
+      "Word": "happy",
+      "Word in English": "happy",
+      "Happiness Score": "8.3",
+      "Standard Deviation of Ratings": "0.9949"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "340",
+      "Word": "divine",
+      "Word in English": "divine",
+      "Happiness Score": "7.26",
+      "Standard Deviation of Ratings": "1.4115"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "523",
+      "Word": "thrill",
+      "Word in English": "thrill",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.5628"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "557",
+      "Word": "safe",
+      "Word in English": "safe",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.6157"
+    },
+    {
+      "Rank": "9935",
+      "Word": "lost",
+      "Word in English": "lost",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "459",
+      "Word": "opportunity",
+      "Word in English": "opportunity",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.7144"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "36",
+      "Word": "loved",
+      "Word in English": "loved",
+      "Happiness Score": "7.96",
+      "Standard Deviation of Ratings": "1.1599"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "45",
+      "Word": "friends",
+      "Word in English": "friends",
+      "Happiness Score": "7.92",
+      "Standard Deviation of Ratings": "1.1925"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "531",
+      "Word": "father",
+      "Word in English": "father",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7427"
+    },
+    {
+      "Rank": "388",
+      "Word": "health",
+      "Word in English": "health",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2501"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "234",
+      "Word": "surprise",
+      "Word in English": "surprise",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.5398"
+    },
+    {
+      "Rank": "196",
+      "Word": "pleasant",
+      "Word in English": "pleasant",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.2162"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "88",
+      "Word": "kisses",
+      "Word in English": "kisses",
+      "Happiness Score": "7.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "356",
+      "Word": "book",
+      "Word in English": "book",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.2048"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "356",
+      "Word": "book",
+      "Word in English": "book",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.2048"
+    },
+    {
+      "Rank": "107",
+      "Word": "mother",
+      "Word in English": "mother",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.6714"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "240",
+      "Word": "pleased",
+      "Word in English": "pleased",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "9824",
+      "Word": "ignorance",
+      "Word in English": "ignorance",
+      "Happiness Score": "2.98",
+      "Standard Deviation of Ratings": "1.3626"
+    },
+    {
+      "Rank": "9824",
+      "Word": "ignorance",
+      "Word in English": "ignorance",
+      "Happiness Score": "2.98",
+      "Standard Deviation of Ratings": "1.3626"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "471",
+      "Word": "fruit",
+      "Word in English": "fruit",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.5205"
+    },
+    {
+      "Rank": "355",
+      "Word": "bloom",
+      "Word in English": "bloom",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.598"
+    },
+    {
+      "Rank": "9909",
+      "Word": "danger",
+      "Word in English": "danger",
+      "Happiness Score": "2.82",
+      "Standard Deviation of Ratings": "1.6374"
+    },
+    {
+      "Rank": "10192",
+      "Word": "violence",
+      "Word in English": "violence",
+      "Happiness Score": "1.86",
+      "Standard Deviation of Ratings": "1.05"
+    },
+    {
+      "Rank": "147",
+      "Word": "income",
+      "Word in English": "income",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.6047"
+    },
+    {
+      "Rank": "356",
+      "Word": "book",
+      "Word in English": "book",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.2048"
+    },
+    {
+      "Rank": "10216",
+      "Word": "death",
+      "Word in English": "death",
+      "Happiness Score": "1.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "115",
+      "Word": "profit",
+      "Word in English": "profit",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.239"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "147",
+      "Word": "income",
+      "Word in English": "income",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.6047"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "572",
+      "Word": "easily",
+      "Word in English": "easily",
+      "Happiness Score": "7.02",
+      "Standard Deviation of Ratings": "1.6349"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "270",
+      "Word": "parents",
+      "Word in English": "parents",
+      "Happiness Score": "7.36",
+      "Standard Deviation of Ratings": "1.5086"
+    },
+    {
+      "Rank": "9935",
+      "Word": "lost",
+      "Word in English": "lost",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "270",
+      "Word": "parents",
+      "Word in English": "parents",
+      "Happiness Score": "7.36",
+      "Standard Deviation of Ratings": "1.5086"
+    },
+    {
+      "Rank": "9934",
+      "Word": "lose",
+      "Word in English": "lose",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.0984"
+    },
+    {
+      "Rank": "555",
+      "Word": "parent",
+      "Word in English": "parent",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.293"
+    },
+    {
+      "Rank": "9934",
+      "Word": "lose",
+      "Word in English": "lose",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.0984"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "531",
+      "Word": "father",
+      "Word in English": "father",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7427"
+    },
+    {
+      "Rank": "259",
+      "Word": "wealth",
+      "Word in English": "wealth",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.2271"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "9935",
+      "Word": "lost",
+      "Word in English": "lost",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "270",
+      "Word": "parents",
+      "Word in English": "parents",
+      "Happiness Score": "7.36",
+      "Standard Deviation of Ratings": "1.5086"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "270",
+      "Word": "parents",
+      "Word in English": "parents",
+      "Happiness Score": "7.36",
+      "Standard Deviation of Ratings": "1.5086"
+    },
+    {
+      "Rank": "9935",
+      "Word": "lost",
+      "Word in English": "lost",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "469",
+      "Word": "birth",
+      "Word in English": "birth",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.6117"
+    },
+    {
+      "Rank": "497",
+      "Word": "resort",
+      "Word in English": "resort",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.4463"
+    },
+    {
+      "Rank": "497",
+      "Word": "resort",
+      "Word in English": "resort",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.4463"
+    },
+    {
+      "Rank": "9927",
+      "Word": "mistake",
+      "Word in English": "mistake",
+      "Happiness Score": "2.78",
+      "Standard Deviation of Ratings": "1.2002"
+    },
+    {
+      "Rank": "90",
+      "Word": "family",
+      "Word in English": "family",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.3099"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "10148",
+      "Word": "worst",
+      "Word in English": "worst",
+      "Happiness Score": "2.1",
+      "Standard Deviation of Ratings": "1.3439"
+    },
+    {
+      "Rank": "9847",
+      "Word": "unfortunate",
+      "Word in English": "unfortunate",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.4636"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "1",
+      "Word": "happiness",
+      "Word in English": "happiness",
+      "Happiness Score": "8.44",
+      "Standard Deviation of Ratings": "0.9723"
+    },
+    {
+      "Rank": "555",
+      "Word": "parent",
+      "Word in English": "parent",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.293"
+    },
+    {
+      "Rank": "217",
+      "Word": "sex",
+      "Word in English": "sex",
+      "Happiness Score": "7.44",
+      "Standard Deviation of Ratings": "1.6801"
+    },
+    {
+      "Rank": "455",
+      "Word": "home",
+      "Word in English": "home",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.8296"
+    },
+    {
+      "Rank": "284",
+      "Word": "satisfy",
+      "Word in English": "satisfy",
+      "Happiness Score": "7.34",
+      "Standard Deviation of Ratings": "1.4373"
+    },
+    {
+      "Rank": "427",
+      "Word": "imagine",
+      "Word in English": "imagine",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.1008"
+    },
+    {
+      "Rank": "491",
+      "Word": "dream",
+      "Word in English": "dream",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.9614"
+    },
+    {
+      "Rank": "548",
+      "Word": "daughter",
+      "Word in English": "daughter",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.8066"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "285",
+      "Word": "wedding",
+      "Word in English": "wedding",
+      "Happiness Score": "7.34",
+      "Standard Deviation of Ratings": "1.5201"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "145",
+      "Word": "goodness",
+      "Word in English": "goodness",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.3716"
+    },
+    {
+      "Rank": "350",
+      "Word": "play",
+      "Word in English": "play",
+      "Happiness Score": "7.26",
+      "Standard Deviation of Ratings": "1.2257"
+    },
+    {
+      "Rank": "22",
+      "Word": "music",
+      "Word in English": "music",
+      "Happiness Score": "8.02",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "10079",
+      "Word": "ill",
+      "Word in English": "ill",
+      "Happiness Score": "2.42",
+      "Standard Deviation of Ratings": "1.2304"
+    },
+    {
+      "Rank": "107",
+      "Word": "mother",
+      "Word in English": "mother",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.6714"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "10197",
+      "Word": "abused",
+      "Word in English": "abused",
+      "Happiness Score": "1.83",
+      "Standard Deviation of Ratings": "1.3101"
+    },
+    {
+      "Rank": "366",
+      "Word": "knowledge",
+      "Word in English": "knowledge",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.4647"
+    },
+    {
+      "Rank": "10206",
+      "Word": "die",
+      "Word in English": "die",
+      "Happiness Score": "1.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "9812",
+      "Word": "argue",
+      "Word in English": "argue",
+      "Happiness Score": "3",
+      "Standard Deviation of Ratings": "1.5386"
+    },
+    {
+      "Rank": "9812",
+      "Word": "argue",
+      "Word in English": "argue",
+      "Happiness Score": "3",
+      "Standard Deviation of Ratings": "1.5386"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "107",
+      "Word": "mother",
+      "Word in English": "mother",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.6714"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "269",
+      "Word": "mothers",
+      "Word in English": "mothers",
+      "Happiness Score": "7.36",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "10162",
+      "Word": "tragedy",
+      "Word in English": "tragedy",
+      "Happiness Score": "2.06",
+      "Standard Deviation of Ratings": "1.3763"
+    },
+    {
+      "Rank": "530",
+      "Word": "clever",
+      "Word in English": "clever",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3463"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "524",
+      "Word": "true",
+      "Word in English": "true",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.1036"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "10169",
+      "Word": "sick",
+      "Word in English": "sick",
+      "Happiness Score": "2.02",
+      "Standard Deviation of Ratings": "1.0784"
+    },
+    {
+      "Rank": "10216",
+      "Word": "death",
+      "Word in English": "death",
+      "Happiness Score": "1.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "530",
+      "Word": "clever",
+      "Word in English": "clever",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3463"
+    },
+    {
+      "Rank": "530",
+      "Word": "clever",
+      "Word in English": "clever",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3463"
+    },
+    {
+      "Rank": "145",
+      "Word": "goodness",
+      "Word in English": "goodness",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.3716"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "530",
+      "Word": "clever",
+      "Word in English": "clever",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3463"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "257",
+      "Word": "nice",
+      "Word in English": "nice",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.5104"
+    },
+    {
+      "Rank": "125",
+      "Word": "sweet",
+      "Word in English": "sweet",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.0645"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "184",
+      "Word": "extraordinary",
+      "Word in English": "extraordinary",
+      "Happiness Score": "7.5",
+      "Standard Deviation of Ratings": "1.374"
+    },
+    {
+      "Rank": "440",
+      "Word": "ideas",
+      "Word in English": "ideas",
+      "Happiness Score": "7.16",
+      "Standard Deviation of Ratings": "1.2835"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "295",
+      "Word": "pretty",
+      "Word in English": "pretty",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10212",
+      "Word": "died",
+      "Word in English": "died",
+      "Happiness Score": "1.56",
+      "Standard Deviation of Ratings": "1.198"
+    },
+    {
+      "Rank": "10206",
+      "Word": "die",
+      "Word in English": "die",
+      "Happiness Score": "1.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "163",
+      "Word": "families",
+      "Word in English": "families",
+      "Happiness Score": "7.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10028",
+      "Word": "loss",
+      "Word in English": "loss",
+      "Happiness Score": "2.56",
+      "Standard Deviation of Ratings": "1.5005"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "93",
+      "Word": "romantic",
+      "Word in English": "romantic",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.1959"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "295",
+      "Word": "pretty",
+      "Word in English": "pretty",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "295",
+      "Word": "pretty",
+      "Word in English": "pretty",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "45",
+      "Word": "friends",
+      "Word in English": "friends",
+      "Happiness Score": "7.92",
+      "Standard Deviation of Ratings": "1.1925"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "238",
+      "Word": "dinner",
+      "Word in English": "dinner",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1429"
+    },
+    {
+      "Rank": "10095",
+      "Word": "hate",
+      "Word in English": "hate",
+      "Happiness Score": "2.34",
+      "Standard Deviation of Ratings": "1.8802"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "10100",
+      "Word": "fear",
+      "Word in English": "fear",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.3005"
+    },
+    {
+      "Rank": "270",
+      "Word": "parents",
+      "Word in English": "parents",
+      "Happiness Score": "7.36",
+      "Standard Deviation of Ratings": "1.5086"
+    },
+    {
+      "Rank": "470",
+      "Word": "children",
+      "Word in English": "children",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.3498"
+    },
+    {
+      "Rank": "282",
+      "Word": "respect",
+      "Word in English": "respect",
+      "Happiness Score": "7.34",
+      "Standard Deviation of Ratings": "1.6113"
+    },
+    {
+      "Rank": "10145",
+      "Word": "dying",
+      "Word in English": "dying",
+      "Happiness Score": "2.1",
+      "Standard Deviation of Ratings": "1.4743"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "9935",
+      "Word": "lost",
+      "Word in English": "lost",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "401",
+      "Word": "eternal",
+      "Word in English": "eternal",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.5272"
+    },
+    {
+      "Rank": "93",
+      "Word": "romantic",
+      "Word in English": "romantic",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.1959"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "84",
+      "Word": "smiles",
+      "Word in English": "smiles",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "244",
+      "Word": "thanks",
+      "Word in English": "thanks",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.5119"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "414",
+      "Word": "presents",
+      "Word in English": "presents",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "9905",
+      "Word": "bills",
+      "Word in English": "bills",
+      "Happiness Score": "2.82",
+      "Standard Deviation of Ratings": "1.6374"
+    },
+    {
+      "Rank": "10067",
+      "Word": "tears",
+      "Word in English": "tears",
+      "Happiness Score": "2.46",
+      "Standard Deviation of Ratings": "1.5012"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "232",
+      "Word": "perfect",
+      "Word in English": "perfect",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "421",
+      "Word": "best",
+      "Word in English": "best",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.6866"
+    },
+    {
+      "Rank": "283",
+      "Word": "satisfaction",
+      "Word in English": "satisfaction",
+      "Happiness Score": "7.34",
+      "Standard Deviation of Ratings": "1.1178"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "6",
+      "Word": "laughing",
+      "Word in English": "laughing",
+      "Happiness Score": "8.2",
+      "Standard Deviation of Ratings": "1.1066"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "112",
+      "Word": "friend",
+      "Word in English": "friend",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "84",
+      "Word": "smiles",
+      "Word in English": "smiles",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    }
+  ],
+  [
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "175",
+      "Word": "roses",
+      "Word in English": "roses",
+      "Happiness Score": "7.52",
+      "Standard Deviation of Ratings": "1.2493"
+    },
+    {
+      "Rank": "321",
+      "Word": "books",
+      "Word in English": "books",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.3254"
+    },
+    {
+      "Rank": "479",
+      "Word": "tree",
+      "Word in English": "tree",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.3192"
+    },
+    {
+      "Rank": "588",
+      "Word": "discovered",
+      "Word in English": "discovered",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2454"
+    },
+    {
+      "Rank": "159",
+      "Word": "flowers",
+      "Word in English": "flowers",
+      "Happiness Score": "7.56",
+      "Standard Deviation of Ratings": "1.4309"
+    },
+    {
+      "Rank": "159",
+      "Word": "flowers",
+      "Word in English": "flowers",
+      "Happiness Score": "7.56",
+      "Standard Deviation of Ratings": "1.4309"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "9888",
+      "Word": "stress",
+      "Word in English": "stress",
+      "Happiness Score": "2.86",
+      "Standard Deviation of Ratings": "1.6037"
+    },
+    {
+      "Rank": "9888",
+      "Word": "stress",
+      "Word in English": "stress",
+      "Happiness Score": "2.86",
+      "Standard Deviation of Ratings": "1.6037"
+    },
+    {
+      "Rank": "421",
+      "Word": "best",
+      "Word in English": "best",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.6866"
+    },
+    {
+      "Rank": "388",
+      "Word": "health",
+      "Word in English": "health",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2501"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "9847",
+      "Word": "unfortunate",
+      "Word in English": "unfortunate",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.4636"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9847",
+      "Word": "unfortunate",
+      "Word in English": "unfortunate",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.4636"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9903",
+      "Word": "weak",
+      "Word in English": "weak",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.2513"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "86",
+      "Word": "wonderful",
+      "Word in English": "wonderful",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "530",
+      "Word": "clever",
+      "Word in English": "clever",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3463"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "9937",
+      "Word": "unfortunately",
+      "Word in English": "unfortunately",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.5722"
+    },
+    {
+      "Rank": "10033",
+      "Word": "abandoned",
+      "Word in English": "abandoned",
+      "Happiness Score": "2.54",
+      "Standard Deviation of Ratings": "1.3734"
+    },
+    {
+      "Rank": "9935",
+      "Word": "lost",
+      "Word in English": "lost",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "150",
+      "Word": "smiling",
+      "Word in English": "smiling",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.7034"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "398",
+      "Word": "trust",
+      "Word in English": "trust",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9908",
+      "Word": "complaining",
+      "Word in English": "complaining",
+      "Happiness Score": "2.82",
+      "Standard Deviation of Ratings": "1.1373"
+    },
+    {
+      "Rank": "10178",
+      "Word": "headache",
+      "Word in English": "headache",
+      "Happiness Score": "1.98",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "518",
+      "Word": "park",
+      "Word in English": "park",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.3529"
+    },
+    {
+      "Rank": "10178",
+      "Word": "headache",
+      "Word in English": "headache",
+      "Happiness Score": "1.98",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "10178",
+      "Word": "headache",
+      "Word in English": "headache",
+      "Happiness Score": "1.98",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "332",
+      "Word": "likes",
+      "Word in English": "likes",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5391"
+    },
+    {
+      "Rank": "337",
+      "Word": "sunday",
+      "Word in English": "sunday",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.9171"
+    },
+    {
+      "Rank": "9847",
+      "Word": "unfortunate",
+      "Word in English": "unfortunate",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.4636"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10178",
+      "Word": "headache",
+      "Word in English": "headache",
+      "Happiness Score": "1.98",
+      "Standard Deviation of Ratings": "1.1156"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "9857",
+      "Word": "problems",
+      "Word in English": "problems",
+      "Happiness Score": "2.92",
+      "Standard Deviation of Ratings": "1.5628"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "321",
+      "Word": "books",
+      "Word in English": "books",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.3254"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10113",
+      "Word": "disappointed",
+      "Word in English": "disappointed",
+      "Happiness Score": "2.26",
+      "Standard Deviation of Ratings": "1.0264"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "9927",
+      "Word": "mistake",
+      "Word in English": "mistake",
+      "Happiness Score": "2.78",
+      "Standard Deviation of Ratings": "1.2002"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "296",
+      "Word": "proud",
+      "Word in English": "proud",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.4348"
+    },
+    {
+      "Rank": "196",
+      "Word": "pleasant",
+      "Word in English": "pleasant",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.2162"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "78",
+      "Word": "beauty",
+      "Word in English": "beauty",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.6107"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "10206",
+      "Word": "die",
+      "Word in English": "die",
+      "Happiness Score": "1.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "238",
+      "Word": "dinner",
+      "Word in English": "dinner",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1429"
+    },
+    {
+      "Rank": "382",
+      "Word": "encouraging",
+      "Word in English": "encouraging",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.5556"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "9957",
+      "Word": "worse",
+      "Word in English": "worse",
+      "Happiness Score": "2.7",
+      "Standard Deviation of Ratings": "1.4178"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "297",
+      "Word": "rose",
+      "Word in English": "rose",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.463"
+    },
+    {
+      "Rank": "53",
+      "Word": "flower",
+      "Word in English": "flower",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.1718"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "297",
+      "Word": "rose",
+      "Word in English": "rose",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.463"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "297",
+      "Word": "rose",
+      "Word in English": "rose",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.463"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "192",
+      "Word": "attractive",
+      "Word in English": "attractive",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "0.9739"
+    },
+    {
+      "Rank": "192",
+      "Word": "attractive",
+      "Word in English": "attractive",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "0.9739"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "299",
+      "Word": "fruits",
+      "Word in English": "fruits",
+      "Happiness Score": "7.31",
+      "Standard Deviation of Ratings": "1.5303"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "234",
+      "Word": "surprise",
+      "Word in English": "surprise",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.5398"
+    },
+    {
+      "Rank": "10096",
+      "Word": "tragic",
+      "Word in English": "tragic",
+      "Happiness Score": "2.34",
+      "Standard Deviation of Ratings": "1.6364"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "398",
+      "Word": "trust",
+      "Word in English": "trust",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9901",
+      "Word": "terrible",
+      "Word in English": "terrible",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8111"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "10171",
+      "Word": "dead",
+      "Word in English": "dead",
+      "Happiness Score": "2",
+      "Standard Deviation of Ratings": "1.3248"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10171",
+      "Word": "dead",
+      "Word in English": "dead",
+      "Happiness Score": "2",
+      "Standard Deviation of Ratings": "1.3248"
+    },
+    {
+      "Rank": "10171",
+      "Word": "dead",
+      "Word in English": "dead",
+      "Happiness Score": "2",
+      "Standard Deviation of Ratings": "1.3248"
+    },
+    {
+      "Rank": "398",
+      "Word": "trust",
+      "Word in English": "trust",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "115",
+      "Word": "profit",
+      "Word in English": "profit",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.239"
+    },
+    {
+      "Rank": "499",
+      "Word": "sincere",
+      "Word in English": "sincere",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.0351"
+    },
+    {
+      "Rank": "305",
+      "Word": "generous",
+      "Word in English": "generous",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.4743"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "10090",
+      "Word": "sad",
+      "Word in English": "sad",
+      "Happiness Score": "2.38",
+      "Standard Deviation of Ratings": "1.6149"
+    },
+    {
+      "Rank": "10090",
+      "Word": "sad",
+      "Word in English": "sad",
+      "Happiness Score": "2.38",
+      "Standard Deviation of Ratings": "1.6149"
+    },
+    {
+      "Rank": "10090",
+      "Word": "sad",
+      "Word in English": "sad",
+      "Happiness Score": "2.38",
+      "Standard Deviation of Ratings": "1.6149"
+    },
+    {
+      "Rank": "10212",
+      "Word": "died",
+      "Word in English": "died",
+      "Happiness Score": "1.56",
+      "Standard Deviation of Ratings": "1.198"
+    },
+    {
+      "Rank": "532",
+      "Word": "grand",
+      "Word in English": "grand",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3614"
+    },
+    {
+      "Rank": "10216",
+      "Word": "death",
+      "Word in English": "death",
+      "Happiness Score": "1.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "232",
+      "Word": "perfect",
+      "Word in English": "perfect",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "9893",
+      "Word": "buried",
+      "Word in English": "buried",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.4194"
+    },
+    {
+      "Rank": "10100",
+      "Word": "fear",
+      "Word in English": "fear",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.3005"
+    },
+    {
+      "Rank": "10096",
+      "Word": "tragic",
+      "Word in English": "tragic",
+      "Happiness Score": "2.34",
+      "Standard Deviation of Ratings": "1.6364"
+    },
+    {
+      "Rank": "337",
+      "Word": "sunday",
+      "Word in English": "sunday",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.9171"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "470",
+      "Word": "children",
+      "Word in English": "children",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.3498"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "10026",
+      "Word": "grave",
+      "Word in English": "grave",
+      "Happiness Score": "2.56",
+      "Standard Deviation of Ratings": "1.8534"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "34",
+      "Word": "fun",
+      "Word in English": "fun",
+      "Happiness Score": "7.96",
+      "Standard Deviation of Ratings": "1.3087"
+    },
+    {
+      "Rank": "200",
+      "Word": "babies",
+      "Word in English": "babies",
+      "Happiness Score": "7.46",
+      "Standard Deviation of Ratings": "1.5012"
+    },
+    {
+      "Rank": "10141",
+      "Word": "sorrow",
+      "Word in English": "sorrow",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.5602"
+    },
+    {
+      "Rank": "10097",
+      "Word": "grief",
+      "Word in English": "grief",
+      "Happiness Score": "2.33",
+      "Standard Deviation of Ratings": "1.784"
+    },
+    {
+      "Rank": "9814",
+      "Word": "bitter",
+      "Word in English": "bitter",
+      "Happiness Score": "3",
+      "Standard Deviation of Ratings": "1.2454"
+    },
+    {
+      "Rank": "126",
+      "Word": "blessings",
+      "Word in English": "blessings",
+      "Happiness Score": "7.62",
+      "Standard Deviation of Ratings": "1.6274"
+    },
+    {
+      "Rank": "236",
+      "Word": "blessing",
+      "Word in English": "blessing",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.7379"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "240",
+      "Word": "pleased",
+      "Word in English": "pleased",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "88",
+      "Word": "kisses",
+      "Word in English": "kisses",
+      "Happiness Score": "7.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "3",
+      "Word": "happy",
+      "Word in English": "happy",
+      "Happiness Score": "8.3",
+      "Standard Deviation of Ratings": "0.9949"
+    },
+    {
+      "Rank": "234",
+      "Word": "surprise",
+      "Word in English": "surprise",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.5398"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9874",
+      "Word": "badly",
+      "Word in English": "badly",
+      "Happiness Score": "2.88",
+      "Standard Deviation of Ratings": "1.6117"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10028",
+      "Word": "loss",
+      "Word in English": "loss",
+      "Happiness Score": "2.56",
+      "Standard Deviation of Ratings": "1.5005"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9928",
+      "Word": "trouble",
+      "Word in English": "trouble",
+      "Happiness Score": "2.78",
+      "Standard Deviation of Ratings": "1.4748"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "257",
+      "Word": "nice",
+      "Word in English": "nice",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.5104"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "112",
+      "Word": "friend",
+      "Word in English": "friend",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "420",
+      "Word": "bed",
+      "Word in English": "bed",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.2887"
+    },
+    {
+      "Rank": "10147",
+      "Word": "pain",
+      "Word in English": "pain",
+      "Happiness Score": "2.1",
+      "Standard Deviation of Ratings": "1.2817"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "9901",
+      "Word": "terrible",
+      "Word in English": "terrible",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8111"
+    },
+    {
+      "Rank": "388",
+      "Word": "health",
+      "Word in English": "health",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2501"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10140",
+      "Word": "painful",
+      "Word in English": "painful",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.4518"
+    },
+    {
+      "Rank": "448",
+      "Word": "welcome",
+      "Word in English": "welcome",
+      "Happiness Score": "7.16",
+      "Standard Deviation of Ratings": "1.3149"
+    },
+    {
+      "Rank": "196",
+      "Word": "pleasant",
+      "Word in English": "pleasant",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.2162"
+    },
+    {
+      "Rank": "232",
+      "Word": "perfect",
+      "Word in English": "perfect",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "43",
+      "Word": "beautiful",
+      "Word in English": "beautiful",
+      "Happiness Score": "7.92",
+      "Standard Deviation of Ratings": "1.1753"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "3",
+      "Word": "happy",
+      "Word in English": "happy",
+      "Happiness Score": "8.3",
+      "Standard Deviation of Ratings": "0.9949"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "9902",
+      "Word": "unkind",
+      "Word in English": "unkind",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8775"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "318",
+      "Word": "educated",
+      "Word in English": "educated",
+      "Happiness Score": "7.29",
+      "Standard Deviation of Ratings": "1.307"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "196",
+      "Word": "pleasant",
+      "Word in English": "pleasant",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.2162"
+    },
+    {
+      "Rank": "457",
+      "Word": "journey",
+      "Word in English": "journey",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.512"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "64",
+      "Word": "success",
+      "Word in English": "success",
+      "Happiness Score": "7.86",
+      "Standard Deviation of Ratings": "1.6414"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "64",
+      "Word": "success",
+      "Word in English": "success",
+      "Happiness Score": "7.86",
+      "Standard Deviation of Ratings": "1.6414"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "159",
+      "Word": "flowers",
+      "Word in English": "flowers",
+      "Happiness Score": "7.56",
+      "Standard Deviation of Ratings": "1.4309"
+    },
+    {
+      "Rank": "175",
+      "Word": "roses",
+      "Word in English": "roses",
+      "Happiness Score": "7.52",
+      "Standard Deviation of Ratings": "1.2493"
+    },
+    {
+      "Rank": "257",
+      "Word": "nice",
+      "Word in English": "nice",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.5104"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "10140",
+      "Word": "painful",
+      "Word in English": "painful",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.4518"
+    },
+    {
+      "Rank": "10140",
+      "Word": "painful",
+      "Word in English": "painful",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.4518"
+    },
+    {
+      "Rank": "45",
+      "Word": "friends",
+      "Word in English": "friends",
+      "Happiness Score": "7.92",
+      "Standard Deviation of Ratings": "1.1925"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "413",
+      "Word": "perfection",
+      "Word in English": "perfection",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.6288"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "77",
+      "Word": "delight",
+      "Word in English": "delight",
+      "Happiness Score": "7.78",
+      "Standard Deviation of Ratings": "1.4181"
+    },
+    {
+      "Rank": "413",
+      "Word": "perfection",
+      "Word in English": "perfection",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.6288"
+    },
+    {
+      "Rank": "86",
+      "Word": "wonderful",
+      "Word in English": "wonderful",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    },
+    {
+      "Rank": "78",
+      "Word": "beauty",
+      "Word in English": "beauty",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.6107"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "10008",
+      "Word": "annoyed",
+      "Word in English": "annoyed",
+      "Happiness Score": "2.58",
+      "Standard Deviation of Ratings": "1.6424"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "192",
+      "Word": "attractive",
+      "Word in English": "attractive",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "0.9739"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "9824",
+      "Word": "ignorance",
+      "Word in English": "ignorance",
+      "Happiness Score": "2.98",
+      "Standard Deviation of Ratings": "1.3626"
+    },
+    {
+      "Rank": "479",
+      "Word": "tree",
+      "Word in English": "tree",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.3192"
+    },
+    {
+      "Rank": "524",
+      "Word": "true",
+      "Word in English": "true",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.1036"
+    },
+    {
+      "Rank": "310",
+      "Word": "lover",
+      "Word in English": "lover",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.9299"
+    },
+    {
+      "Rank": "295",
+      "Word": "pretty",
+      "Word in English": "pretty",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "125",
+      "Word": "sweet",
+      "Word in English": "sweet",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.0645"
+    },
+    {
+      "Rank": "43",
+      "Word": "beautiful",
+      "Word in English": "beautiful",
+      "Happiness Score": "7.92",
+      "Standard Deviation of Ratings": "1.1753"
+    },
+    {
+      "Rank": "9874",
+      "Word": "badly",
+      "Word in English": "badly",
+      "Happiness Score": "2.88",
+      "Standard Deviation of Ratings": "1.6117"
+    },
+    {
+      "Rank": "10164",
+      "Word": "crying",
+      "Word in English": "crying",
+      "Happiness Score": "2.04",
+      "Standard Deviation of Ratings": "1.2447"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "10034",
+      "Word": "broke",
+      "Word in English": "broke",
+      "Happiness Score": "2.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "10129",
+      "Word": "hurt",
+      "Word in English": "hurt",
+      "Happiness Score": "2.18",
+      "Standard Deviation of Ratings": "1.3656"
+    },
+    {
+      "Rank": "10034",
+      "Word": "broke",
+      "Word in English": "broke",
+      "Happiness Score": "2.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "232",
+      "Word": "perfect",
+      "Word in English": "perfect",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "100",
+      "Word": "angel",
+      "Word in English": "angel",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.2362"
+    },
+    {
+      "Rank": "93",
+      "Word": "romantic",
+      "Word in English": "romantic",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.1959"
+    },
+    {
+      "Rank": "88",
+      "Word": "kisses",
+      "Word in English": "kisses",
+      "Happiness Score": "7.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "5",
+      "Word": "laugh",
+      "Word in English": "laugh",
+      "Happiness Score": "8.22",
+      "Standard Deviation of Ratings": "1.3746"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "491",
+      "Word": "dream",
+      "Word in English": "dream",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.9614"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "472",
+      "Word": "inspire",
+      "Word in English": "inspire",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4797"
+    },
+    {
+      "Rank": "380",
+      "Word": "confidence",
+      "Word in English": "confidence",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2824"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "125",
+      "Word": "sweet",
+      "Word in English": "sweet",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.0645"
+    },
+    {
+      "Rank": "38",
+      "Word": "loving",
+      "Word in English": "loving",
+      "Happiness Score": "7.96",
+      "Standard Deviation of Ratings": "1.0093"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "10155",
+      "Word": "bankruptcy",
+      "Word in English": "bankruptcy",
+      "Happiness Score": "2.06",
+      "Standard Deviation of Ratings": "1.596"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "282",
+      "Word": "respect",
+      "Word in English": "respect",
+      "Happiness Score": "7.34",
+      "Standard Deviation of Ratings": "1.6113"
+    },
+    {
+      "Rank": "10100",
+      "Word": "fear",
+      "Word in English": "fear",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.3005"
+    },
+    {
+      "Rank": "356",
+      "Word": "book",
+      "Word in English": "book",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.2048"
+    },
+    {
+      "Rank": "427",
+      "Word": "imagine",
+      "Word in English": "imagine",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.1008"
+    },
+    {
+      "Rank": "88",
+      "Word": "kisses",
+      "Word in English": "kisses",
+      "Happiness Score": "7.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "125",
+      "Word": "sweet",
+      "Word in English": "sweet",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.0645"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "45",
+      "Word": "friends",
+      "Word in English": "friends",
+      "Happiness Score": "7.92",
+      "Standard Deviation of Ratings": "1.1925"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "257",
+      "Word": "nice",
+      "Word in English": "nice",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.5104"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "459",
+      "Word": "opportunity",
+      "Word in English": "opportunity",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.7144"
+    },
+    {
+      "Rank": "531",
+      "Word": "father",
+      "Word in English": "father",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7427"
+    },
+    {
+      "Rank": "90",
+      "Word": "family",
+      "Word in English": "family",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.3099"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "455",
+      "Word": "home",
+      "Word in English": "home",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.8296"
+    },
+    {
+      "Rank": "9938",
+      "Word": "neglect",
+      "Word in English": "neglect",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "2.175"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "192",
+      "Word": "attractive",
+      "Word in English": "attractive",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "0.9739"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "107",
+      "Word": "mother",
+      "Word in English": "mother",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.6714"
+    },
+    {
+      "Rank": "107",
+      "Word": "mother",
+      "Word in English": "mother",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.6714"
+    },
+    {
+      "Rank": "171",
+      "Word": "interesting",
+      "Word in English": "interesting",
+      "Happiness Score": "7.52",
+      "Standard Deviation of Ratings": "1.1822"
+    },
+    {
+      "Rank": "77",
+      "Word": "delight",
+      "Word in English": "delight",
+      "Happiness Score": "7.78",
+      "Standard Deviation of Ratings": "1.4181"
+    },
+    {
+      "Rank": "441",
+      "Word": "liked",
+      "Word in English": "liked",
+      "Happiness Score": "7.16",
+      "Standard Deviation of Ratings": "0.9116"
+    },
+    {
+      "Rank": "232",
+      "Word": "perfect",
+      "Word in English": "perfect",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "540",
+      "Word": "strong",
+      "Word in English": "strong",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.5174"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "97",
+      "Word": "honour",
+      "Word in English": "honour",
+      "Happiness Score": "7.7",
+      "Standard Deviation of Ratings": "1.2495"
+    },
+    {
+      "Rank": "9869",
+      "Word": "impossible",
+      "Word in English": "impossible",
+      "Happiness Score": "2.9",
+      "Standard Deviation of Ratings": "1.2657"
+    },
+    {
+      "Rank": "10140",
+      "Word": "painful",
+      "Word in English": "painful",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.4518"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9901",
+      "Word": "terrible",
+      "Word in English": "terrible",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8111"
+    },
+    {
+      "Rank": "33",
+      "Word": "friendship",
+      "Word in English": "friendship",
+      "Happiness Score": "7.96",
+      "Standard Deviation of Ratings": "1.1241"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "490",
+      "Word": "dearest",
+      "Word in English": "dearest",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.2817"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "10000",
+      "Word": "error",
+      "Word in English": "error",
+      "Happiness Score": "2.6",
+      "Standard Deviation of Ratings": "0.8081"
+    },
+    {
+      "Rank": "233",
+      "Word": "saturday",
+      "Word in English": "saturday",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "433",
+      "Word": "travel",
+      "Word in English": "travel",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.4241"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "9952",
+      "Word": "distress",
+      "Word in English": "distress",
+      "Happiness Score": "2.7",
+      "Standard Deviation of Ratings": "1.4178"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "430",
+      "Word": "promise",
+      "Word in English": "promise",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.1899"
+    },
+    {
+      "Rank": "10110",
+      "Word": "sadly",
+      "Word in English": "sadly",
+      "Happiness Score": "2.28",
+      "Standard Deviation of Ratings": "1.4714"
+    },
+    {
+      "Rank": "9847",
+      "Word": "unfortunate",
+      "Word in English": "unfortunate",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.4636"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "15",
+      "Word": "pleasure",
+      "Word in English": "pleasure",
+      "Happiness Score": "8.08",
+      "Standard Deviation of Ratings": "0.9655"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "171",
+      "Word": "interesting",
+      "Word in English": "interesting",
+      "Happiness Score": "7.52",
+      "Standard Deviation of Ratings": "1.1822"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "10095",
+      "Word": "hate",
+      "Word in English": "hate",
+      "Happiness Score": "2.34",
+      "Standard Deviation of Ratings": "1.8802"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "534",
+      "Word": "idea",
+      "Word in English": "idea",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.2843"
+    },
+    {
+      "Rank": "159",
+      "Word": "flowers",
+      "Word in English": "flowers",
+      "Happiness Score": "7.56",
+      "Standard Deviation of Ratings": "1.4309"
+    },
+    {
+      "Rank": "159",
+      "Word": "flowers",
+      "Word in English": "flowers",
+      "Happiness Score": "7.56",
+      "Standard Deviation of Ratings": "1.4309"
+    },
+    {
+      "Rank": "10216",
+      "Word": "death",
+      "Word in English": "death",
+      "Happiness Score": "1.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "10177",
+      "Word": "depression",
+      "Word in English": "depression",
+      "Happiness Score": "1.98",
+      "Standard Deviation of Ratings": "1.5583"
+    },
+    {
+      "Rank": "10123",
+      "Word": "suffering",
+      "Word in English": "suffering",
+      "Happiness Score": "2.22",
+      "Standard Deviation of Ratings": "1.7058"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "421",
+      "Word": "best",
+      "Word in English": "best",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.6866"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "184",
+      "Word": "extraordinary",
+      "Word in English": "extraordinary",
+      "Happiness Score": "7.5",
+      "Standard Deviation of Ratings": "1.374"
+    },
+    {
+      "Rank": "57",
+      "Word": "sweetness",
+      "Word in English": "sweetness",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.1891"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "480",
+      "Word": "valuable",
+      "Word in English": "valuable",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.1183"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "121",
+      "Word": "kiss",
+      "Word in English": "kiss",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.7585"
+    },
+    {
+      "Rank": "6",
+      "Word": "laughing",
+      "Word in English": "laughing",
+      "Happiness Score": "8.2",
+      "Standard Deviation of Ratings": "1.1066"
+    },
+    {
+      "Rank": "534",
+      "Word": "idea",
+      "Word in English": "idea",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.2843"
+    },
+    {
+      "Rank": "295",
+      "Word": "pretty",
+      "Word in English": "pretty",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "121",
+      "Word": "kiss",
+      "Word in English": "kiss",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.7585"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "6",
+      "Word": "laughing",
+      "Word in English": "laughing",
+      "Happiness Score": "8.2",
+      "Standard Deviation of Ratings": "1.1066"
+    },
+    {
+      "Rank": "534",
+      "Word": "idea",
+      "Word in English": "idea",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.2843"
+    },
+    {
+      "Rank": "295",
+      "Word": "pretty",
+      "Word in English": "pretty",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "66",
+      "Word": "kissed",
+      "Word in English": "kissed",
+      "Happiness Score": "7.84",
+      "Standard Deviation of Ratings": "1.5048"
+    },
+    {
+      "Rank": "88",
+      "Word": "kisses",
+      "Word in English": "kisses",
+      "Happiness Score": "7.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "10000",
+      "Word": "error",
+      "Word in English": "error",
+      "Happiness Score": "2.6",
+      "Standard Deviation of Ratings": "0.8081"
+    },
+    {
+      "Rank": "441",
+      "Word": "liked",
+      "Word in English": "liked",
+      "Happiness Score": "7.16",
+      "Standard Deviation of Ratings": "0.9116"
+    },
+    {
+      "Rank": "441",
+      "Word": "liked",
+      "Word in English": "liked",
+      "Happiness Score": "7.16",
+      "Standard Deviation of Ratings": "0.9116"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "10083",
+      "Word": "wounded",
+      "Word in English": "wounded",
+      "Happiness Score": "2.42",
+      "Standard Deviation of Ratings": "1.553"
+    },
+    {
+      "Rank": "125",
+      "Word": "sweet",
+      "Word in English": "sweet",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.0645"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "534",
+      "Word": "idea",
+      "Word in English": "idea",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.2843"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "10140",
+      "Word": "painful",
+      "Word in English": "painful",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.4518"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "10140",
+      "Word": "painful",
+      "Word in English": "painful",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.4518"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "196",
+      "Word": "pleasant",
+      "Word in English": "pleasant",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.2162"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "86",
+      "Word": "wonderful",
+      "Word in English": "wonderful",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    },
+    {
+      "Rank": "86",
+      "Word": "wonderful",
+      "Word in English": "wonderful",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "534",
+      "Word": "idea",
+      "Word in English": "idea",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.2843"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "283",
+      "Word": "satisfaction",
+      "Word in English": "satisfaction",
+      "Happiness Score": "7.34",
+      "Standard Deviation of Ratings": "1.1178"
+    },
+    {
+      "Rank": "112",
+      "Word": "friend",
+      "Word in English": "friend",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9978",
+      "Word": "bad",
+      "Word in English": "bad",
+      "Happiness Score": "2.64",
+      "Standard Deviation of Ratings": "1.4675"
+    },
+    {
+      "Rank": "125",
+      "Word": "sweet",
+      "Word in English": "sweet",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.0645"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "103",
+      "Word": "brilliant",
+      "Word in English": "brilliant",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.6218"
+    },
+    {
+      "Rank": "530",
+      "Word": "clever",
+      "Word in English": "clever",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3463"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "2",
+      "Word": "love",
+      "Word in English": "love",
+      "Happiness Score": "8.42",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "298",
+      "Word": "united",
+      "Word in English": "united",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.2027"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "238",
+      "Word": "dinner",
+      "Word in English": "dinner",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1429"
+    },
+    {
+      "Rank": "231",
+      "Word": "parties",
+      "Word in English": "parties",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.4441"
+    },
+    {
+      "Rank": "303",
+      "Word": "eating",
+      "Word in English": "eating",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.7757"
+    },
+    {
+      "Rank": "10116",
+      "Word": "horrible",
+      "Word in English": "horrible",
+      "Happiness Score": "2.24",
+      "Standard Deviation of Ratings": "1.4786"
+    },
+    {
+      "Rank": "9928",
+      "Word": "trouble",
+      "Word in English": "trouble",
+      "Happiness Score": "2.78",
+      "Standard Deviation of Ratings": "1.4748"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "303",
+      "Word": "eating",
+      "Word in English": "eating",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.7757"
+    },
+    {
+      "Rank": "9928",
+      "Word": "trouble",
+      "Word in English": "trouble",
+      "Happiness Score": "2.78",
+      "Standard Deviation of Ratings": "1.4748"
+    },
+    {
+      "Rank": "303",
+      "Word": "eating",
+      "Word in English": "eating",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.7757"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "9928",
+      "Word": "trouble",
+      "Word in English": "trouble",
+      "Happiness Score": "2.78",
+      "Standard Deviation of Ratings": "1.4748"
+    },
+    {
+      "Rank": "214",
+      "Word": "food",
+      "Word in English": "food",
+      "Happiness Score": "7.44",
+      "Standard Deviation of Ratings": "1.2149"
+    },
+    {
+      "Rank": "303",
+      "Word": "eating",
+      "Word in English": "eating",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.7757"
+    },
+    {
+      "Rank": "10143",
+      "Word": "unhappy",
+      "Word in English": "unhappy",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.3649"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "549",
+      "Word": "eat",
+      "Word in English": "eat",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.4563"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "145",
+      "Word": "goodness",
+      "Word in English": "goodness",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.3716"
+    },
+    {
+      "Rank": "238",
+      "Word": "dinner",
+      "Word in English": "dinner",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1429"
+    },
+    {
+      "Rank": "238",
+      "Word": "dinner",
+      "Word in English": "dinner",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1429"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "232",
+      "Word": "perfect",
+      "Word in English": "perfect",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.7154"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "10070",
+      "Word": "dangerous",
+      "Word in English": "dangerous",
+      "Happiness Score": "2.44",
+      "Standard Deviation of Ratings": "1.4591"
+    },
+    {
+      "Rank": "86",
+      "Word": "wonderful",
+      "Word in English": "wonderful",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    },
+    {
+      "Rank": "516",
+      "Word": "improvements",
+      "Word in English": "improvements",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.4119"
+    },
+    {
+      "Rank": "10095",
+      "Word": "hate",
+      "Word in English": "hate",
+      "Happiness Score": "2.34",
+      "Standard Deviation of Ratings": "1.8802"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "142",
+      "Word": "cake",
+      "Word in English": "cake",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.1082"
+    },
+    {
+      "Rank": "440",
+      "Word": "ideas",
+      "Word in English": "ideas",
+      "Happiness Score": "7.16",
+      "Standard Deviation of Ratings": "1.2835"
+    },
+    {
+      "Rank": "303",
+      "Word": "eating",
+      "Word in English": "eating",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.7757"
+    }
+  ],
+  [
+    {
+      "Rank": "385",
+      "Word": "garden",
+      "Word in English": "garden",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.183"
+    },
+    {
+      "Rank": "9967",
+      "Word": "shame",
+      "Word in English": "shame",
+      "Happiness Score": "2.68",
+      "Standard Deviation of Ratings": "1.3005"
+    },
+    {
+      "Rank": "303",
+      "Word": "eating",
+      "Word in English": "eating",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.7757"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "459",
+      "Word": "opportunity",
+      "Word in English": "opportunity",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.7144"
+    },
+    {
+      "Rank": "86",
+      "Word": "wonderful",
+      "Word in English": "wonderful",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.7907"
+    },
+    {
+      "Rank": "78",
+      "Word": "beauty",
+      "Word in English": "beauty",
+      "Happiness Score": "7.76",
+      "Standard Deviation of Ratings": "1.6107"
+    },
+    {
+      "Rank": "524",
+      "Word": "true",
+      "Word in English": "true",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.1036"
+    },
+    {
+      "Rank": "10026",
+      "Word": "grave",
+      "Word in English": "grave",
+      "Happiness Score": "2.56",
+      "Standard Deviation of Ratings": "1.8534"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "459",
+      "Word": "opportunity",
+      "Word in English": "opportunity",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.7144"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "524",
+      "Word": "true",
+      "Word in English": "true",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.1036"
+    },
+    {
+      "Rank": "196",
+      "Word": "pleasant",
+      "Word in English": "pleasant",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.2162"
+    },
+    {
+      "Rank": "7",
+      "Word": "excellent",
+      "Word in English": "excellent",
+      "Happiness Score": "8.18",
+      "Standard Deviation of Ratings": "1.1008"
+    },
+    {
+      "Rank": "534",
+      "Word": "idea",
+      "Word in English": "idea",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.2843"
+    },
+    {
+      "Rank": "9901",
+      "Word": "terrible",
+      "Word in English": "terrible",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8111"
+    },
+    {
+      "Rank": "513",
+      "Word": "equality",
+      "Word in English": "equality",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.8277"
+    },
+    {
+      "Rank": "202",
+      "Word": "courage",
+      "Word in English": "courage",
+      "Happiness Score": "7.46",
+      "Standard Deviation of Ratings": "1.1817"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "381",
+      "Word": "darling",
+      "Word in English": "darling",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.3138"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "527",
+      "Word": "mamma",
+      "Word in English": "mamma",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7006"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "9848",
+      "Word": "weakness",
+      "Word in English": "weakness",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.5331"
+    },
+    {
+      "Rank": "548",
+      "Word": "daughter",
+      "Word in English": "daughter",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.8066"
+    },
+    {
+      "Rank": "380",
+      "Word": "confidence",
+      "Word in English": "confidence",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2824"
+    },
+    {
+      "Rank": "10143",
+      "Word": "unhappy",
+      "Word in English": "unhappy",
+      "Happiness Score": "2.12",
+      "Standard Deviation of Ratings": "1.3649"
+    },
+    {
+      "Rank": "531",
+      "Word": "father",
+      "Word in English": "father",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7427"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "147",
+      "Word": "income",
+      "Word in English": "income",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.6047"
+    },
+    {
+      "Rank": "548",
+      "Word": "daughter",
+      "Word in English": "daughter",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.8066"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "112",
+      "Word": "friend",
+      "Word in English": "friend",
+      "Happiness Score": "7.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "10171",
+      "Word": "dead",
+      "Word in English": "dead",
+      "Happiness Score": "2",
+      "Standard Deviation of Ratings": "1.3248"
+    },
+    {
+      "Rank": "10171",
+      "Word": "dead",
+      "Word in English": "dead",
+      "Happiness Score": "2",
+      "Standard Deviation of Ratings": "1.3248"
+    },
+    {
+      "Rank": "10206",
+      "Word": "die",
+      "Word in English": "die",
+      "Happiness Score": "1.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "10216",
+      "Word": "death",
+      "Word in English": "death",
+      "Happiness Score": "1.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "10214",
+      "Word": "killed",
+      "Word in English": "killed",
+      "Happiness Score": "1.56",
+      "Standard Deviation of Ratings": "1.2316"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "10212",
+      "Word": "died",
+      "Word in English": "died",
+      "Happiness Score": "1.56",
+      "Standard Deviation of Ratings": "1.198"
+    },
+    {
+      "Rank": "10206",
+      "Word": "die",
+      "Word in English": "die",
+      "Happiness Score": "1.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "10091",
+      "Word": "victim",
+      "Word in English": "victim",
+      "Happiness Score": "2.38",
+      "Standard Deviation of Ratings": "1.4126"
+    },
+    {
+      "Rank": "10212",
+      "Word": "died",
+      "Word in English": "died",
+      "Happiness Score": "1.56",
+      "Standard Deviation of Ratings": "1.198"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "380",
+      "Word": "confidence",
+      "Word in English": "confidence",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2824"
+    },
+    {
+      "Rank": "193",
+      "Word": "glad",
+      "Word in English": "glad",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "1.5151"
+    },
+    {
+      "Rank": "144",
+      "Word": "exciting",
+      "Word in English": "exciting",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.3415"
+    },
+    {
+      "Rank": "534",
+      "Word": "idea",
+      "Word in English": "idea",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.2843"
+    },
+    {
+      "Rank": "163",
+      "Word": "families",
+      "Word in English": "families",
+      "Happiness Score": "7.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "532",
+      "Word": "grand",
+      "Word in English": "grand",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.3614"
+    },
+    {
+      "Rank": "548",
+      "Word": "daughter",
+      "Word in English": "daughter",
+      "Happiness Score": "7.04",
+      "Standard Deviation of Ratings": "1.8066"
+    },
+    {
+      "Rank": "518",
+      "Word": "park",
+      "Word in English": "park",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.3529"
+    },
+    {
+      "Rank": "472",
+      "Word": "inspire",
+      "Word in English": "inspire",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4797"
+    },
+    {
+      "Rank": "380",
+      "Word": "confidence",
+      "Word in English": "confidence",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2824"
+    },
+    {
+      "Rank": "9883",
+      "Word": "errors",
+      "Word in English": "errors",
+      "Happiness Score": "2.86",
+      "Standard Deviation of Ratings": "0.9691"
+    },
+    {
+      "Rank": "90",
+      "Word": "family",
+      "Word in English": "family",
+      "Happiness Score": "7.72",
+      "Standard Deviation of Ratings": "1.3099"
+    },
+    {
+      "Rank": "238",
+      "Word": "dinner",
+      "Word in English": "dinner",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1429"
+    },
+    {
+      "Rank": "231",
+      "Word": "parties",
+      "Word in English": "parties",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.4441"
+    },
+    {
+      "Rank": "336",
+      "Word": "satisfied",
+      "Word in English": "satisfied",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5258"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "240",
+      "Word": "pleased",
+      "Word in English": "pleased",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "469",
+      "Word": "birth",
+      "Word in English": "birth",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.6117"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "144",
+      "Word": "exciting",
+      "Word in English": "exciting",
+      "Happiness Score": "7.58",
+      "Standard Deviation of Ratings": "1.3415"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "9934",
+      "Word": "lose",
+      "Word in English": "lose",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.0984"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "304",
+      "Word": "fortune",
+      "Word in English": "fortune",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.3887"
+    },
+    {
+      "Rank": "240",
+      "Word": "pleased",
+      "Word in English": "pleased",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "192",
+      "Word": "attractive",
+      "Word in English": "attractive",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "0.9739"
+    },
+    {
+      "Rank": "522",
+      "Word": "qualities",
+      "Word in English": "qualities",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.1578"
+    },
+    {
+      "Rank": "522",
+      "Word": "qualities",
+      "Word in English": "qualities",
+      "Happiness Score": "7.08",
+      "Standard Deviation of Ratings": "1.1578"
+    },
+    {
+      "Rank": "295",
+      "Word": "pretty",
+      "Word in English": "pretty",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "10110",
+      "Word": "sadly",
+      "Word in English": "sadly",
+      "Happiness Score": "2.28",
+      "Standard Deviation of Ratings": "1.4714"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "13",
+      "Word": "smile",
+      "Word in English": "smile",
+      "Happiness Score": "8.1",
+      "Standard Deviation of Ratings": "1.0152"
+    },
+    {
+      "Rank": "125",
+      "Word": "sweet",
+      "Word in English": "sweet",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.0645"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "414",
+      "Word": "presents",
+      "Word in English": "presents",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "9903",
+      "Word": "weak",
+      "Word in English": "weak",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.2513"
+    },
+    {
+      "Rank": "49",
+      "Word": "sweetest",
+      "Word in English": "sweetest",
+      "Happiness Score": "7.92",
+      "Standard Deviation of Ratings": "1.2911"
+    },
+    {
+      "Rank": "490",
+      "Word": "dearest",
+      "Word in English": "dearest",
+      "Happiness Score": "7.1",
+      "Standard Deviation of Ratings": "1.2817"
+    },
+    {
+      "Rank": "590",
+      "Word": "girl",
+      "Word in English": "girl",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.1606"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "304",
+      "Word": "fortune",
+      "Word in English": "fortune",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.3887"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "121",
+      "Word": "kiss",
+      "Word in English": "kiss",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.7585"
+    },
+    {
+      "Rank": "88",
+      "Word": "kisses",
+      "Word in English": "kisses",
+      "Happiness Score": "7.74",
+      "Standard Deviation of Ratings": "1.192"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "243",
+      "Word": "thank",
+      "Word in English": "thank",
+      "Happiness Score": "7.4",
+      "Standard Deviation of Ratings": "1.1249"
+    },
+    {
+      "Rank": "459",
+      "Word": "opportunity",
+      "Word in English": "opportunity",
+      "Happiness Score": "7.14",
+      "Standard Deviation of Ratings": "1.7144"
+    },
+    {
+      "Rank": "9869",
+      "Word": "impossible",
+      "Word in English": "impossible",
+      "Happiness Score": "2.9",
+      "Standard Deviation of Ratings": "1.2657"
+    },
+    {
+      "Rank": "10100",
+      "Word": "fear",
+      "Word in English": "fear",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.3005"
+    },
+    {
+      "Rank": "190",
+      "Word": "romance",
+      "Word in English": "romance",
+      "Happiness Score": "7.5",
+      "Standard Deviation of Ratings": "1.4321"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "135",
+      "Word": "succeeded",
+      "Word in English": "succeeded",
+      "Happiness Score": "7.62",
+      "Standard Deviation of Ratings": "1.1409"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "305",
+      "Word": "generous",
+      "Word in English": "generous",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.4743"
+    },
+    {
+      "Rank": "125",
+      "Word": "sweet",
+      "Word in English": "sweet",
+      "Happiness Score": "7.64",
+      "Standard Deviation of Ratings": "1.0645"
+    },
+    {
+      "Rank": "357",
+      "Word": "child",
+      "Word in English": "child",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.5592"
+    },
+    {
+      "Rank": "231",
+      "Word": "parties",
+      "Word in English": "parties",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.4441"
+    },
+    {
+      "Rank": "335",
+      "Word": "perfectly",
+      "Word in English": "perfectly",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.5913"
+    },
+    {
+      "Rank": "231",
+      "Word": "parties",
+      "Word in English": "parties",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.4441"
+    },
+    {
+      "Rank": "32",
+      "Word": "free",
+      "Word in English": "free",
+      "Happiness Score": "7.96",
+      "Standard Deviation of Ratings": "1.261"
+    },
+    {
+      "Rank": "251",
+      "Word": "grandfather",
+      "Word in English": "grandfather",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.427"
+    },
+    {
+      "Rank": "10026",
+      "Word": "grave",
+      "Word in English": "grave",
+      "Happiness Score": "2.56",
+      "Standard Deviation of Ratings": "1.8534"
+    },
+    {
+      "Rank": "192",
+      "Word": "attractive",
+      "Word in English": "attractive",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "0.9739"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "469",
+      "Word": "birth",
+      "Word in English": "birth",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.6117"
+    },
+    {
+      "Rank": "32",
+      "Word": "free",
+      "Word in English": "free",
+      "Happiness Score": "7.96",
+      "Standard Deviation of Ratings": "1.261"
+    },
+    {
+      "Rank": "366",
+      "Word": "knowledge",
+      "Word in English": "knowledge",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.4647"
+    },
+    {
+      "Rank": "192",
+      "Word": "attractive",
+      "Word in English": "attractive",
+      "Happiness Score": "7.48",
+      "Standard Deviation of Ratings": "0.9739"
+    },
+    {
+      "Rank": "10095",
+      "Word": "hate",
+      "Word in English": "hate",
+      "Happiness Score": "2.34",
+      "Standard Deviation of Ratings": "1.8802"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "344",
+      "Word": "gladly",
+      "Word in English": "gladly",
+      "Happiness Score": "7.26",
+      "Standard Deviation of Ratings": "1.1214"
+    },
+    {
+      "Rank": "371",
+      "Word": "passionate",
+      "Word in English": "passionate",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.0797"
+    },
+    {
+      "Rank": "589",
+      "Word": "gentlemen",
+      "Word in English": "gentlemen",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.4289"
+    },
+    {
+      "Rank": "534",
+      "Word": "idea",
+      "Word in English": "idea",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.2843"
+    },
+    {
+      "Rank": "9930",
+      "Word": "wasted",
+      "Word in English": "wasted",
+      "Happiness Score": "2.78",
+      "Standard Deviation of Ratings": "1.1657"
+    },
+    {
+      "Rank": "312",
+      "Word": "money",
+      "Word in English": "money",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.8434"
+    },
+    {
+      "Rank": "410",
+      "Word": "ladies",
+      "Word in English": "ladies",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4708"
+    },
+    {
+      "Rank": "358",
+      "Word": "companion",
+      "Word in English": "companion",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3786"
+    },
+    {
+      "Rank": "9967",
+      "Word": "shame",
+      "Word in English": "shame",
+      "Happiness Score": "2.68",
+      "Standard Deviation of Ratings": "1.3005"
+    },
+    {
+      "Rank": "320",
+      "Word": "baby",
+      "Word in English": "baby",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.8521"
+    },
+    {
+      "Rank": "9901",
+      "Word": "terrible",
+      "Word in English": "terrible",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8111"
+    },
+    {
+      "Rank": "320",
+      "Word": "baby",
+      "Word in English": "baby",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.8521"
+    },
+    {
+      "Rank": "217",
+      "Word": "sex",
+      "Word in English": "sex",
+      "Happiness Score": "7.44",
+      "Standard Deviation of Ratings": "1.6801"
+    },
+    {
+      "Rank": "588",
+      "Word": "discovered",
+      "Word in English": "discovered",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2454"
+    },
+    {
+      "Rank": "320",
+      "Word": "baby",
+      "Word in English": "baby",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.8521"
+    },
+    {
+      "Rank": "320",
+      "Word": "baby",
+      "Word in English": "baby",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.8521"
+    },
+    {
+      "Rank": "9967",
+      "Word": "shame",
+      "Word in English": "shame",
+      "Happiness Score": "2.68",
+      "Standard Deviation of Ratings": "1.3005"
+    },
+    {
+      "Rank": "320",
+      "Word": "baby",
+      "Word in English": "baby",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.8521"
+    },
+    {
+      "Rank": "320",
+      "Word": "baby",
+      "Word in English": "baby",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.8521"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "131",
+      "Word": "excitement",
+      "Word in English": "excitement",
+      "Happiness Score": "7.62",
+      "Standard Deviation of Ratings": "1.6523"
+    },
+    {
+      "Rank": "163",
+      "Word": "families",
+      "Word in English": "families",
+      "Happiness Score": "7.54",
+      "Standard Deviation of Ratings": "1.2811"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "9878",
+      "Word": "dislike",
+      "Word in English": "dislike",
+      "Happiness Score": "2.88",
+      "Standard Deviation of Ratings": "1.1183"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "9901",
+      "Word": "terrible",
+      "Word in English": "terrible",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8111"
+    },
+    {
+      "Rank": "253",
+      "Word": "hope",
+      "Word in English": "hope",
+      "Happiness Score": "7.38",
+      "Standard Deviation of Ratings": "1.3076"
+    },
+    {
+      "Rank": "1",
+      "Word": "happiness",
+      "Word in English": "happiness",
+      "Happiness Score": "8.44",
+      "Standard Deviation of Ratings": "0.9723"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "10166",
+      "Word": "injury",
+      "Word in English": "injury",
+      "Happiness Score": "2.04",
+      "Standard Deviation of Ratings": "1.2447"
+    },
+    {
+      "Rank": "9840",
+      "Word": "explosion",
+      "Word in English": "explosion",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.596"
+    },
+    {
+      "Rank": "54",
+      "Word": "great",
+      "Word in English": "great",
+      "Happiness Score": "7.88",
+      "Standard Deviation of Ratings": "1.2061"
+    },
+    {
+      "Rank": "9936",
+      "Word": "pathetic",
+      "Word in English": "pathetic",
+      "Happiness Score": "2.76",
+      "Standard Deviation of Ratings": "1.2867"
+    },
+    {
+      "Rank": "320",
+      "Word": "baby",
+      "Word in English": "baby",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.8521"
+    },
+    {
+      "Rank": "377",
+      "Word": "amazed",
+      "Word in English": "amazed",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.8658"
+    },
+    {
+      "Rank": "107",
+      "Word": "mother",
+      "Word in English": "mother",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.6714"
+    },
+    {
+      "Rank": "10117",
+      "Word": "suffered",
+      "Word in English": "suffered",
+      "Happiness Score": "2.24",
+      "Standard Deviation of Ratings": "1.598"
+    },
+    {
+      "Rank": "482",
+      "Word": "women",
+      "Word in English": "women",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.4658"
+    },
+    {
+      "Rank": "107",
+      "Word": "mother",
+      "Word in English": "mother",
+      "Happiness Score": "7.68",
+      "Standard Deviation of Ratings": "1.6714"
+    },
+    {
+      "Rank": "10000",
+      "Word": "error",
+      "Word in English": "error",
+      "Happiness Score": "2.6",
+      "Standard Deviation of Ratings": "0.8081"
+    },
+    {
+      "Rank": "10095",
+      "Word": "hate",
+      "Word in English": "hate",
+      "Happiness Score": "2.34",
+      "Standard Deviation of Ratings": "1.8802"
+    },
+    {
+      "Rank": "9971",
+      "Word": "afraid",
+      "Word in English": "afraid",
+      "Happiness Score": "2.66",
+      "Standard Deviation of Ratings": "1.5066"
+    },
+    {
+      "Rank": "476",
+      "Word": "son",
+      "Word in English": "son",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.8142"
+    },
+    {
+      "Rank": "10102",
+      "Word": "poor",
+      "Word in English": "poor",
+      "Happiness Score": "2.32",
+      "Standard Deviation of Ratings": "1.2848"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9847",
+      "Word": "unfortunate",
+      "Word in English": "unfortunate",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.4636"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9847",
+      "Word": "unfortunate",
+      "Word in English": "unfortunate",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.4636"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "9847",
+      "Word": "unfortunate",
+      "Word in English": "unfortunate",
+      "Happiness Score": "2.94",
+      "Standard Deviation of Ratings": "1.4636"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "282",
+      "Word": "respect",
+      "Word in English": "respect",
+      "Happiness Score": "7.34",
+      "Standard Deviation of Ratings": "1.6113"
+    },
+    {
+      "Rank": "391",
+      "Word": "like",
+      "Word in English": "like",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2171"
+    },
+    {
+      "Rank": "379",
+      "Word": "brother",
+      "Word in English": "brother",
+      "Happiness Score": "7.22",
+      "Standard Deviation of Ratings": "1.2337"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "421",
+      "Word": "best",
+      "Word in English": "best",
+      "Happiness Score": "7.18",
+      "Standard Deviation of Ratings": "1.6866"
+    },
+    {
+      "Rank": "408",
+      "Word": "good",
+      "Word in English": "good",
+      "Happiness Score": "7.2",
+      "Standard Deviation of Ratings": "1.4569"
+    },
+    {
+      "Rank": "178",
+      "Word": "heavens",
+      "Word in English": "heavens",
+      "Happiness Score": "7.51",
+      "Standard Deviation of Ratings": "1.7335"
+    },
+    {
+      "Rank": "594",
+      "Word": "noble",
+      "Word in English": "noble",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.6036"
+    },
+    {
+      "Rank": "369",
+      "Word": "nature",
+      "Word in English": "nature",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.802"
+    },
+    {
+      "Rank": "583",
+      "Word": "better",
+      "Word in English": "better",
+      "Happiness Score": "7",
+      "Standard Deviation of Ratings": "1.2778"
+    },
+    {
+      "Rank": "311",
+      "Word": "luxury",
+      "Word in English": "luxury",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.6812"
+    },
+    {
+      "Rank": "312",
+      "Word": "money",
+      "Word in English": "money",
+      "Happiness Score": "7.3",
+      "Standard Deviation of Ratings": "1.8434"
+    },
+    {
+      "Rank": "270",
+      "Word": "parents",
+      "Word in English": "parents",
+      "Happiness Score": "7.36",
+      "Standard Deviation of Ratings": "1.5086"
+    },
+    {
+      "Rank": "10148",
+      "Word": "worst",
+      "Word in English": "worst",
+      "Happiness Score": "2.1",
+      "Standard Deviation of Ratings": "1.3439"
+    },
+    {
+      "Rank": "476",
+      "Word": "son",
+      "Word in English": "son",
+      "Happiness Score": "7.12",
+      "Standard Deviation of Ratings": "1.8142"
+    },
+    {
+      "Rank": "531",
+      "Word": "father",
+      "Word in English": "father",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7427"
+    },
+    {
+      "Rank": "531",
+      "Word": "father",
+      "Word in English": "father",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7427"
+    },
+    {
+      "Rank": "365",
+      "Word": "kind",
+      "Word in English": "kind",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.3933"
+    },
+    {
+      "Rank": "531",
+      "Word": "father",
+      "Word in English": "father",
+      "Happiness Score": "7.06",
+      "Standard Deviation of Ratings": "1.7427"
+    },
+    {
+      "Rank": "10212",
+      "Word": "died",
+      "Word in English": "died",
+      "Happiness Score": "1.56",
+      "Standard Deviation of Ratings": "1.198"
+    },
+    {
+      "Rank": "62",
+      "Word": "peace",
+      "Word in English": "peace",
+      "Happiness Score": "7.86",
+      "Standard Deviation of Ratings": "1.3403"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "10067",
+      "Word": "tears",
+      "Word in English": "tears",
+      "Happiness Score": "2.46",
+      "Standard Deviation of Ratings": "1.5012"
+    },
+    {
+      "Rank": "321",
+      "Word": "books",
+      "Word in English": "books",
+      "Happiness Score": "7.28",
+      "Standard Deviation of Ratings": "1.3254"
+    },
+    {
+      "Rank": "356",
+      "Word": "book",
+      "Word in English": "book",
+      "Happiness Score": "7.24",
+      "Standard Deviation of Ratings": "1.2048"
+    },
+    {
+      "Rank": "9901",
+      "Word": "terrible",
+      "Word in English": "terrible",
+      "Happiness Score": "2.84",
+      "Standard Deviation of Ratings": "1.8111"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    },
+    {
+      "Rank": "235",
+      "Word": "truth",
+      "Word in English": "truth",
+      "Happiness Score": "7.42",
+      "Standard Deviation of Ratings": "1.401"
+    },
+    {
+      "Rank": "293",
+      "Word": "life",
+      "Word in English": "life",
+      "Happiness Score": "7.32",
+      "Standard Deviation of Ratings": "1.6956"
+    }
+  ]
+]

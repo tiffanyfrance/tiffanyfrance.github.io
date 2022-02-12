@@ -1,0 +1,3167 @@
+[
+  {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.601467,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.628954,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "FIRST ACT SCENE Morning-room in Algernon’s flat in Half-Moon Street.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "The room is luxuriously and artistically furnished.",
+        "tones": []
+      },
+      {
+        "sentence_id": 2,
+        "text": "The sound of a piano is heard in the adjoining room.",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "Lane is arranging afternoon tea on the table, and after the music has ceased, Algernon enters.",
+        "tones": [
+          {
+            "score": 0.652151,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.595347,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "Did you hear what I was playing, Lane?",
+        "tones": [
+          {
+            "score": 0.508925,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "I didn’t think it polite to listen, sir.",
+        "tones": [
+          {
+            "score": 0.506223,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "I’m sorry for that, for your sake.",
+        "tones": []
+      },
+      {
+        "sentence_id": 7,
+        "text": "I don’t play accurately—any one can play accurately—but I play with wonderful expression.",
+        "tones": [
+          {
+            "score": 0.714921,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 8,
+        "text": "As far as the piano is concerned, sentiment is my forte.",
+        "tones": [
+          {
+            "score": 0.97667,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 9,
+        "text": "I keep science for Life.",
+        "tones": [
+          {
+            "score": 0.643262,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "Yes, sir.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "And, speaking of the science of Life, have you got the cucumber sandwiches cut for Lady Bracknell?",
+        "tones": [
+          {
+            "score": 0.545509,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Yes, sir.",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "Hands them on a salver.",
+        "tones": []
+      },
+      {
+        "sentence_id": 14,
+        "text": "Inspects them, takes two, and sits down on the sofa.",
+        "tones": []
+      },
+      {
+        "sentence_id": 15,
+        "text": "Oh! . . .",
+        "tones": []
+      },
+      {
+        "sentence_id": 16,
+        "text": "by the way, Lane, I see from your book that on Thursday night, when Lord Shoreman and Mr. Worthing were dining with me, eight bottles of champagne are entered as having been consumed.",
+        "tones": []
+      },
+      {
+        "sentence_id": 17,
+        "text": "Yes, sir; eight bottles and a pint.",
+        "tones": []
+      },
+      {
+        "sentence_id": 18,
+        "text": "Why is it that at a bachelor’s establishment the servants invariably drink the champagne?",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "I ask merely for information.",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.944551,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "I attribute it to the superior quality of the wine, sir.",
+        "tones": [
+          {
+            "score": 0.739523,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.731735,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "I have often observed that in married households the champagne is rarely of a first-rate brand.",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "Good heavens!",
+        "tones": [
+          {
+            "score": 1.0,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "Is marriage so demoralising as that?",
+        "tones": [
+          {
+            "score": 0.562964,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "I believe it is a very pleasant state, sir.",
+        "tones": [
+          {
+            "score": 0.602775,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "I have had very little experience of it myself up to the present.",
+        "tones": [
+          {
+            "score": 0.775702,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "I have only been married once.",
+        "tones": [
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "That was in consequence of a misunderstanding between myself and a young person.",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "Languidly.",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "I don’t know that I am much interested in your family life, No, sir; it is not a very interesting subject.",
+        "tones": [
+          {
+            "score": 0.709658,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "I never think of it myself.",
+        "tones": [
+          {
+            "score": 0.989022,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "Very natural, I am sure.",
+        "tones": [
+          {
+            "score": 0.993864,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "That will do, Lane, thank you.",
+        "tones": []
+      },
+      {
+        "sentence_id": 33,
+        "text": "Thank you, sir.",
+        "tones": [
+          {
+            "score": 0.693592,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "Lane goes out.",
+        "tones": [
+          {
+            "score": 0.611831,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "Lane’s views on marriage seem somewhat lax.",
+        "tones": [
+          {
+            "score": 0.974201,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "Really, if the lower orders don’t set us a good example, what on earth is the use of them?",
+        "tones": [
+          {
+            "score": 0.90303,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "They seem, as a class, to have absolutely no sense of moral responsibility.",
+        "tones": [
+          {
+            "score": 0.933868,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "Enter Mr. Ernest Worthing.",
+        "tones": []
+      },
+      {
+        "sentence_id": 39,
+        "text": "Enter Lane goes out.",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "How are you, my dear Ernest?",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "What brings you up to town?",
+        "tones": [
+          {
+            "score": 0.514565,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "Oh, pleasure, pleasure!",
+        "tones": [
+          {
+            "score": 0.755183,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "What else should bring one anywhere?",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "Eating as usual, I see, Algy! Stiffly.",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "I believe it is customary in good society to take some slight refreshment at five o’clock.",
+        "tones": [
+          {
+            "score": 0.564505,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.936081,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "Where have you been since last Thursday?",
+        "tones": []
+      },
+      {
+        "sentence_id": 47,
+        "text": "Sitting down on the sofa.",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "In the country.",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "What on earth do you do there?",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "Pulling off his gloves.",
+        "tones": []
+      },
+      {
+        "sentence_id": 51,
+        "text": "When one is in town one amuses oneself.",
+        "tones": []
+      },
+      {
+        "sentence_id": 52,
+        "text": "When one is in the country one amuses other people.",
+        "tones": []
+      },
+      {
+        "sentence_id": 53,
+        "text": "It is excessively boring.",
+        "tones": [
+          {
+            "score": 0.818587,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "And who are the people you amuse?",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "Airily.",
+        "tones": []
+      },
+      {
+        "sentence_id": 56,
+        "text": "Oh, neighbours, neighbours.",
+        "tones": [
+          {
+            "score": 0.541463,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "Got nice neighbours in your part of Shropshire?",
+        "tones": [
+          {
+            "score": 0.676932,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "Perfectly horrid!",
+        "tones": [
+          {
+            "score": 0.518362,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.996934,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "Never speak to one of them.",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "How immensely you must amuse them!",
+        "tones": [
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "Goes over and takes sandwich.",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "By the way, Shropshire is your county, is it not?",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "Eh? Shropshire?",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "Yes, of course.",
+        "tones": [
+          {
+            "score": 0.999238,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "Hallo!",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "Why all these cups?",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.916667,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.97759,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 67,
+        "text": "Why cucumber sandwiches?",
+        "tones": []
+      },
+      {
+        "sentence_id": 68,
+        "text": "Why such reckless extravagance in one so young?",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "Who is coming to tea? Oh! merely Aunt Augusta and How perfectly delightful!",
+        "tones": [
+          {
+            "score": 0.759656,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "Yes, that is all very well; but I am afraid Aunt Augusta won’t quite approve of your being here.",
+        "tones": [
+          {
+            "score": 0.779606,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.783854,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "May I ask why?",
+        "tones": [
+          {
+            "score": 0.984352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "My dear fellow, the way you flirt with Gwendolen is perfectly disgraceful.",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "It is almost as bad as the way Gwendolen flirts with you.",
+        "tones": [
+          {
+            "score": 0.60201,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "I am in love with I have come up to town expressly to propose to her.",
+        "tones": [
+          {
+            "score": 0.797126,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "I thought you had come up for pleasure? . . .",
+        "tones": [
+          {
+            "score": 0.56195,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "I call that business.",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "How utterly unromantic you are!",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "I really don’t see anything romantic in proposing.",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.965509,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "It is very romantic to be in love.",
+        "tones": [
+          {
+            "score": 0.837378,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 80,
+        "text": "But there is nothing romantic about a definite proposal.",
+        "tones": [
+          {
+            "score": 0.633424,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.901894,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "Why, one may be accepted.",
+        "tones": [
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 82,
+        "text": "One usually is, I believe.",
+        "tones": [
+          {
+            "score": 0.991756,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "Then the excitement is all over.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "The very essence of romance is uncertainty.",
+        "tones": [
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "If ever I get married, I’ll certainly try to forget the fact.",
+        "tones": [
+          {
+            "score": 0.531046,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.942582,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "I have no doubt about that, dear Algy.",
+        "tones": [
+          {
+            "score": 0.531577,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.92125,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "The Divorce Court was specially invented for people whose memories are so curiously constituted.",
+        "tones": [
+          {
+            "score": 0.570692,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "Oh! there is no use speculating on that subject.",
+        "tones": [
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "Divorces are made in Heaven—Jack puts out his hand to take a sandwich.",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "Algernon at once interferes.",
+        "tones": []
+      },
+      {
+        "sentence_id": 91,
+        "text": "Please don’t touch the cucumber sandwiches.",
+        "tones": []
+      },
+      {
+        "sentence_id": 92,
+        "text": "They are ordered specially for Aunt Augusta.",
+        "tones": []
+      },
+      {
+        "sentence_id": 93,
+        "text": "Takes one and eats it.",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "Well, you have been eating them all the time.",
+        "tones": [
+          {
+            "score": 0.874372,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "That is quite a different matter.",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "She is my aunt.",
+        "tones": []
+      },
+      {
+        "sentence_id": 97,
+        "text": "Takes plate from below.",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "Have some bread and butter.",
+        "tones": [
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "The bread and butter is for Gwendolen is devoted to bread and butter.",
+        "tones": []
+      }
+    ],
+    "chapter": 1
+  },
+  {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.570934,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.579829,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "SECOND ACT SCENE Garden at the Manor House.",
+        "tones": [
+          {
+            "score": 0.632041,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 1,
+        "text": "A flight of grey stone steps leads up to the house.",
+        "tones": [
+          {
+            "score": 0.686438,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.703409,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "The garden, an old-fashioned one, full of roses.",
+        "tones": [
+          {
+            "score": 0.645564,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "Time of year, July.",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "Basket chairs, and a table covered with books, are set under a large yew-tree.",
+        "tones": [
+          {
+            "score": 0.675469,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "Miss Prism discovered seated at the table.",
+        "tones": [
+          {
+            "score": 0.75471,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.951898,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "Cecily is at the back watering flowers.",
+        "tones": [
+          {
+            "score": 0.665551,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "Calling.",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "Cecily, Cecily!",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "Surely such a utilitarian occupation as the watering of flowers is rather Moulton’s duty than yours?",
+        "tones": [
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 10,
+        "text": "Especially at a moment when intellectual pleasures await you.",
+        "tones": [
+          {
+            "score": 0.718201,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 11,
+        "text": "Your German grammar is on the table.",
+        "tones": []
+      },
+      {
+        "sentence_id": 12,
+        "text": "Pray open it at page fifteen.",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "We will repeat yesterday’s lesson.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "Coming over very slowly.",
+        "tones": [
+          {
+            "score": 0.763628,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.97759,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "But I don’t like German.",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "It isn’t at all a becoming language.",
+        "tones": [
+          {
+            "score": 0.806517,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "I know perfectly well that I look quite plain after my German lesson.",
+        "tones": [
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.784773,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "Child, you know how anxious your guardian is that you should improve yourself in every way.",
+        "tones": [
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.562568,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 19,
+        "text": "He laid particular stress on your German, as he was leaving for town yesterday.",
+        "tones": [
+          {
+            "score": 0.528906,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "Indeed, he always lays stress on your German when he is leaving for town.",
+        "tones": [
+          {
+            "score": 0.633131,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.92125,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 21,
+        "text": "Dear Uncle Jack is so very serious!",
+        "tones": [
+          {
+            "score": 0.589829,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.967339,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "Sometimes he is so serious that I think he cannot be quite well.",
+        "tones": [
+          {
+            "score": 0.510792,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "Drawing herself up.",
+        "tones": []
+      },
+      {
+        "sentence_id": 24,
+        "text": "Your guardian enjoys the best of health, and his gravity of demeanour is especially to be commended in one so comparatively young as he is.",
+        "tones": [
+          {
+            "score": 0.8575,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 25,
+        "text": "I know no one who has a higher sense of duty and responsibility.",
+        "tones": [
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "I suppose that is why he often looks a little bored when we three are together.",
+        "tones": [
+          {
+            "score": 0.864126,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.798791,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "Cecily!",
+        "tones": []
+      },
+      {
+        "sentence_id": 28,
+        "text": "I am surprised at you.",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "Mr. Worthing has many troubles in his life.",
+        "tones": [
+          {
+            "score": 0.592542,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "Idle merriment and triviality would be out of place in his conversation.",
+        "tones": []
+      },
+      {
+        "sentence_id": 31,
+        "text": "You must remember his constant anxiety about that unfortunate young man his brother.",
+        "tones": [
+          {
+            "score": 0.797857,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.509368,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 32,
+        "text": "I wish Uncle Jack would allow that unfortunate young man, his brother, to come down here sometimes.",
+        "tones": [
+          {
+            "score": 0.555299,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.58393,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "We might have a good influence over him, I am sure you certainly would.",
+        "tones": [
+          {
+            "score": 0.512854,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.751512,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "You know German, and geology, and things of that kind influence a man very much.",
+        "tones": [
+          {
+            "score": 0.8152,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "Cecily begins to write in her diary.",
+        "tones": [
+          {
+            "score": 0.554603,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "Shaking her head.",
+        "tones": [
+          {
+            "score": 0.773554,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "I do not think that even I could produce any effect on a character that according to his own brother’s admission is irretrievably weak and vacillating.",
+        "tones": [
+          {
+            "score": 0.938962,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.878702,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 38,
+        "text": "Indeed I am not sure that I would desire to reclaim him.",
+        "tones": [
+          {
+            "score": 0.592288,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "I am not in favour of this modern mania for turning bad people into good people at a moment’s notice.",
+        "tones": [
+          {
+            "score": 0.611072,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 40,
+        "text": "As a man sows so let him reap.",
+        "tones": []
+      },
+      {
+        "sentence_id": 41,
+        "text": "You must put away your diary, I really don’t see why you should keep a diary at all.",
+        "tones": [
+          {
+            "score": 0.816764,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.809841,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "I keep a diary in order to enter the wonderful secrets of my life.",
+        "tones": [
+          {
+            "score": 0.903392,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "If I didn’t write them down, I should probably forget all about them.",
+        "tones": [
+          {
+            "score": 0.555076,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.821913,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 44,
+        "text": "Memory, my dear Cecily, is the diary that we all carry about with us.",
+        "tones": [
+          {
+            "score": 0.656621,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "Yes, but it usually chronicles the things that have never happened, and couldn’t possibly have happened.",
+        "tones": [
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "I believe that Memory is responsible for nearly all the three-volume novels that Mudie sends us.",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "Do not speak slightingly of the three-volume novel, I wrote one myself in earlier days.",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "Did you really, Miss Prism?",
+        "tones": [
+          {
+            "score": 0.921793,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 49,
+        "text": "How wonderfully clever you are!",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "I hope it did not end happily?",
+        "tones": [
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "I don’t like novels that end happily.",
+        "tones": [
+          {
+            "score": 0.567381,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "They depress me so much.",
+        "tones": [
+          {
+            "score": 0.951017,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "The good ended happily, and the bad unhappily.",
+        "tones": [
+          {
+            "score": 0.848314,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "That is what Fiction means.",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "I suppose so.",
+        "tones": [
+          {
+            "score": 0.994446,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "But it seems very unfair.",
+        "tones": [
+          {
+            "score": 0.800644,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 57,
+        "text": "And was your novel ever published?",
+        "tones": [
+          {
+            "score": 0.80026,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "Alas! no.",
+        "tones": [
+          {
+            "score": 0.982476,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 59,
+        "text": "The manuscript unfortunately was abandoned.",
+        "tones": [
+          {
+            "score": 0.638705,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 60,
+        "text": "Cecily starts.",
+        "tones": []
+      },
+      {
+        "sentence_id": 61,
+        "text": "I use the word in the sense of lost or mislaid.",
+        "tones": [
+          {
+            "score": 0.589076,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 62,
+        "text": "To your work, child, these speculations are profitless.",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 63,
+        "text": "Smiling.",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 64,
+        "text": "But I see dear Dr. Chasuble coming up through the garden.",
+        "tones": [
+          {
+            "score": 0.65161,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "Rising and advancing.",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "Dr. Chasuble!",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "This is indeed a pleasure.",
+        "tones": [
+          {
+            "score": 0.751846,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          },
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "Enter Canon And how are we this morning?",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "Miss Prism, you are, I trust, well?",
+        "tones": [
+          {
+            "score": 0.707027,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "Miss Prism has just been complaining of a slight headache.",
+        "tones": [
+          {
+            "score": 0.618547,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.928936,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "I think it would do her so much good to have a short stroll with you in the Park, Dr. Cecily, I have not mentioned anything about a headache.",
+        "tones": [
+          {
+            "score": 0.515711,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "No, dear Miss Prism, I know that, but I felt instinctively that you had a headache.",
+        "tones": [
+          {
+            "score": 0.512222,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 73,
+        "text": "Indeed I was thinking about that, and not about my German lesson, when the Rector came in.",
+        "tones": [
+          {
+            "score": 0.809841,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 74,
+        "text": "I hope, Cecily, you are not inattentive.",
+        "tones": [
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "Oh, I am afraid I am.",
+        "tones": [
+          {
+            "score": 0.861601,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "That is strange.",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "Were I fortunate enough to be Miss Prism’s pupil, I would hang upon her lips.",
+        "tones": [
+          {
+            "score": 0.659397,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.647986,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 78,
+        "text": "Miss Prism glares.",
+        "tones": [
+          {
+            "score": 0.741111,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "I spoke metaphorically.—My",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "metaphor was drawn from bees.",
+        "tones": [
+          {
+            "score": 0.501439,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 81,
+        "text": "Ahem!",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "Mr. Worthing, I suppose, has not returned from town yet?",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "We do not expect him till Monday afternoon.",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "Ah yes, he usually likes to spend his Sunday in London.",
+        "tones": [
+          {
+            "score": 0.51309,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "He is not one of those whose sole aim is enjoyment, as, by all accounts, that unfortunate young man his brother seems to be.",
+        "tones": [
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "But I must not disturb Egeria and her pupil any longer.",
+        "tones": []
+      },
+      {
+        "sentence_id": 87,
+        "text": "Egeria?",
+        "tones": []
+      },
+      {
+        "sentence_id": 88,
+        "text": "My name is Lætitia, Doctor.",
+        "tones": []
+      },
+      {
+        "sentence_id": 89,
+        "text": "Bowing.",
+        "tones": []
+      },
+      {
+        "sentence_id": 90,
+        "text": "A classical allusion merely, drawn from the Pagan authors.",
+        "tones": [
+          {
+            "score": 0.542091,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.5538,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "I shall see you both no doubt at Evensong?",
+        "tones": [
+          {
+            "score": 0.955584,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "I think, dear Doctor, I will have a stroll with you.",
+        "tones": [
+          {
+            "score": 0.653099,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "I find I have a headache after all, and a walk might do it good.",
+        "tones": [
+          {
+            "score": 0.650505,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.908301,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.716301,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 94,
+        "text": "With pleasure, Miss Prism, with pleasure.",
+        "tones": [
+          {
+            "score": 0.573499,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 95,
+        "text": "We might go as far as the schools and back.",
+        "tones": [
+          {
+            "score": 0.965509,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 96,
+        "text": "That would be delightful.",
+        "tones": []
+      },
+      {
+        "sentence_id": 97,
+        "text": "Cecily, you will read your Political Economy in my absence.",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "The chapter on the Fall of the Rupee you may omit.",
+        "tones": [
+          {
+            "score": 0.786991,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "It is somewhat too sensational.",
+        "tones": [
+          {
+            "score": 0.822231,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      }
+    ],
+    "chapter": 2
+  },
+  {
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.534664,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.556876,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.645932,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "THIRD ACT SCENE Morning-room at the Manor House.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "Gwendolen and Cecily are at the window, looking out into the garden.",
+        "tones": [
+          {
+            "score": 0.593423,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "The fact that they did not follow us at once into the house, as any one else would have done, seems to me to show that they have some sense of shame left.",
+        "tones": [
+          {
+            "score": 0.714971,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.599484,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.583315,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 3,
+        "text": "They have been eating muffins.",
+        "tones": []
+      },
+      {
+        "sentence_id": 4,
+        "text": "That looks like repentance.",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 5,
+        "text": "After a pause.",
+        "tones": []
+      },
+      {
+        "sentence_id": 6,
+        "text": "They don’t seem to notice us at all.",
+        "tones": [
+          {
+            "score": 0.679374,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "Couldn’t you cough?",
+        "tones": []
+      },
+      {
+        "sentence_id": 8,
+        "text": "But I haven’t got a cough.",
+        "tones": []
+      },
+      {
+        "sentence_id": 9,
+        "text": "They’re looking at us.",
+        "tones": []
+      },
+      {
+        "sentence_id": 10,
+        "text": "What effrontery! They’re approaching.",
+        "tones": []
+      },
+      {
+        "sentence_id": 11,
+        "text": "That’s very forward of them.",
+        "tones": [
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 12,
+        "text": "Let us preserve a dignified silence.",
+        "tones": []
+      },
+      {
+        "sentence_id": 13,
+        "text": "Certainly.",
+        "tones": [
+          {
+            "score": 0.999744,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 14,
+        "text": "It’s the only thing to do now.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 15,
+        "text": "Enter Jack followed by They whistle some dreadful popular air from a British Opera.",
+        "tones": [
+          {
+            "score": 0.681699,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 16,
+        "text": "This dignified silence seems to produce an unpleasant effect.",
+        "tones": [
+          {
+            "score": 0.687102,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 17,
+        "text": "A most distasteful one.",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 18,
+        "text": "But we will not be the first to speak.",
+        "tones": []
+      },
+      {
+        "sentence_id": 19,
+        "text": "Certainly not.",
+        "tones": [
+          {
+            "score": 0.994551,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 20,
+        "text": "Mr. Worthing, I have something very particular to ask you.",
+        "tones": []
+      },
+      {
+        "sentence_id": 21,
+        "text": "Much depends on your reply.",
+        "tones": [
+          {
+            "score": 0.968123,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 22,
+        "text": "Gwendolen, your common sense is invaluable.",
+        "tones": [
+          {
+            "score": 0.944551,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.849827,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 23,
+        "text": "Mr. Moncrieff, kindly answer me the following question.",
+        "tones": [
+          {
+            "score": 0.982476,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 24,
+        "text": "Why did you pretend to be my guardian’s brother?",
+        "tones": []
+      },
+      {
+        "sentence_id": 25,
+        "text": "In order that I might have an opportunity of meeting you.",
+        "tones": [
+          {
+            "score": 0.856622,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 26,
+        "text": "To That certainly seems a satisfactory explanation, does it not?",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 27,
+        "text": "Yes, dear, if you can believe him.",
+        "tones": [
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.801827,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 28,
+        "text": "I don’t.",
+        "tones": []
+      },
+      {
+        "sentence_id": 29,
+        "text": "But that does not affect the wonderful beauty of his answer.",
+        "tones": [
+          {
+            "score": 0.970739,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.862286,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 30,
+        "text": "True.",
+        "tones": [
+          {
+            "score": 0.996934,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 31,
+        "text": "In matters of grave importance, style, not sincerity is the vital thing.",
+        "tones": []
+      },
+      {
+        "sentence_id": 32,
+        "text": "Mr. Worthing, what explanation can you offer to me for pretending to have a brother?",
+        "tones": [
+          {
+            "score": 0.600093,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          },
+          {
+            "score": 0.532616,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 33,
+        "text": "Was it in order that you might have an opportunity of coming up to town to see me as often as possible?",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.8152,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 34,
+        "text": "Can you doubt it, Miss Fairfax?",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 35,
+        "text": "I have the gravest doubts upon the subject.",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 36,
+        "text": "But I intend to crush them.",
+        "tones": [
+          {
+            "score": 0.655389,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.842108,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 37,
+        "text": "This is not the moment for German scepticism.",
+        "tones": []
+      },
+      {
+        "sentence_id": 38,
+        "text": "Moving to Their explanations appear to be quite satisfactory, especially Mr. Worthing’s.",
+        "tones": [
+          {
+            "score": 0.88939,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 39,
+        "text": "That seems to me to have the stamp of truth upon it.",
+        "tones": []
+      },
+      {
+        "sentence_id": 40,
+        "text": "I am more than content with what Mr. Moncrieff said.",
+        "tones": [
+          {
+            "score": 0.687768,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 41,
+        "text": "His voice alone inspires one with absolute credulity.",
+        "tones": [
+          {
+            "score": 0.807342,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.955584,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 42,
+        "text": "Then you think we should forgive them?",
+        "tones": [
+          {
+            "score": 0.895415,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 43,
+        "text": "Yes.",
+        "tones": []
+      },
+      {
+        "sentence_id": 44,
+        "text": "I mean no.",
+        "tones": [
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 45,
+        "text": "True!",
+        "tones": [
+          {
+            "score": 0.996934,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 46,
+        "text": "I had forgotten.",
+        "tones": [
+          {
+            "score": 0.931034,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          },
+          {
+            "score": 0.916667,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 47,
+        "text": "There are principles at stake that one cannot surrender.",
+        "tones": []
+      },
+      {
+        "sentence_id": 48,
+        "text": "Which of us should tell them?",
+        "tones": []
+      },
+      {
+        "sentence_id": 49,
+        "text": "The task is not a pleasant one.",
+        "tones": []
+      },
+      {
+        "sentence_id": 50,
+        "text": "Could we not both speak at the same time?",
+        "tones": [
+          {
+            "score": 0.946222,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 51,
+        "text": "An excellent idea!",
+        "tones": [
+          {
+            "score": 0.904003,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.955445,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 52,
+        "text": "I nearly always speak at the same time as other people.",
+        "tones": [
+          {
+            "score": 0.868982,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 53,
+        "text": "Will you take the time from me? Certainly.",
+        "tones": [
+          {
+            "score": 0.898327,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 54,
+        "text": "Gwendolen beats time with uplifted finger.",
+        "tones": []
+      },
+      {
+        "sentence_id": 55,
+        "text": "GWENDOLEN and CECILY Speaking together.",
+        "tones": [
+          {
+            "score": 0.543158,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 56,
+        "text": "Your Christian names are still an insuperable barrier.",
+        "tones": []
+      },
+      {
+        "sentence_id": 57,
+        "text": "That is all!",
+        "tones": [
+          {
+            "score": 0.989586,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 58,
+        "text": "JACK and ALGERNON Speaking together.",
+        "tones": []
+      },
+      {
+        "sentence_id": 59,
+        "text": "Our Christian names!",
+        "tones": []
+      },
+      {
+        "sentence_id": 60,
+        "text": "Is that all?",
+        "tones": [
+          {
+            "score": 0.989586,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 61,
+        "text": "But we are going to be christened this afternoon.",
+        "tones": []
+      },
+      {
+        "sentence_id": 62,
+        "text": "To For my sake you are prepared to do this terrible thing?",
+        "tones": []
+      },
+      {
+        "sentence_id": 63,
+        "text": "I am.",
+        "tones": []
+      },
+      {
+        "sentence_id": 64,
+        "text": "To To please me you are ready to face this fearful ordeal?",
+        "tones": [
+          {
+            "score": 0.67404,
+            "tone_id": "fear",
+            "tone_name": "Fear"
+          }
+        ]
+      },
+      {
+        "sentence_id": 65,
+        "text": "I am!",
+        "tones": []
+      },
+      {
+        "sentence_id": 66,
+        "text": "How absurd to talk of the equality of the sexes!",
+        "tones": []
+      },
+      {
+        "sentence_id": 67,
+        "text": "Where questions of self-sacrifice are concerned, men are infinitely beyond us.",
+        "tones": [
+          {
+            "score": 0.862286,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 68,
+        "text": "We are.",
+        "tones": []
+      },
+      {
+        "sentence_id": 69,
+        "text": "Clasps hands with They have moments of physical courage of which we women know absolutely nothing.",
+        "tones": [
+          {
+            "score": 0.626296,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.617907,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.664451,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 70,
+        "text": "To Darling!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 71,
+        "text": "To Darling!",
+        "tones": [
+          {
+            "score": 0.880435,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 72,
+        "text": "They fall into each other’s arms.",
+        "tones": []
+      },
+      {
+        "sentence_id": 73,
+        "text": "Enter When he enters he coughs loudly, seeing the situation.",
+        "tones": []
+      },
+      {
+        "sentence_id": 74,
+        "text": "Ahem! Ahem! Lady Bracknell!",
+        "tones": [
+          {
+            "score": 0.573078,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 75,
+        "text": "Good heavens!",
+        "tones": [
+          {
+            "score": 1.0,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 76,
+        "text": "Enter The couples separate in alarm.",
+        "tones": []
+      },
+      {
+        "sentence_id": 77,
+        "text": "Exit Gwendolen!",
+        "tones": []
+      },
+      {
+        "sentence_id": 78,
+        "text": "What does this mean?",
+        "tones": [
+          {
+            "score": 0.920855,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 79,
+        "text": "Merely that I am engaged to be married to Mr. Worthing, mamma.",
+        "tones": []
+      },
+      {
+        "sentence_id": 80,
+        "text": "Come here.",
+        "tones": []
+      },
+      {
+        "sentence_id": 81,
+        "text": "Sit down.",
+        "tones": []
+      },
+      {
+        "sentence_id": 82,
+        "text": "Sit down immediately.",
+        "tones": [
+          {
+            "score": 0.630183,
+            "tone_id": "anger",
+            "tone_name": "Anger"
+          }
+        ]
+      },
+      {
+        "sentence_id": 83,
+        "text": "Hesitation of any kind is a sign of mental decay in the young, of physical weakness in the old.",
+        "tones": [
+          {
+            "score": 0.508809,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.937821,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 84,
+        "text": "Turns to Apprised, sir, of my daughter’s sudden flight by her trusty maid, whose confidence I purchased by means of a small coin, I followed her at once by a luggage train.",
+        "tones": [
+          {
+            "score": 0.704916,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 85,
+        "text": "Her unhappy father is, I am glad to say, under the impression that she is attending a more than usually lengthy lecture by the University Extension Scheme on the Influence of a permanent income on Thought.",
+        "tones": [
+          {
+            "score": 0.638807,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 86,
+        "text": "I do not propose to undeceive him.",
+        "tones": [
+          {
+            "score": 0.93884,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 87,
+        "text": "Indeed I have never undeceived him on any question.",
+        "tones": [
+          {
+            "score": 0.93534,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.660207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 88,
+        "text": "I would consider it wrong.",
+        "tones": [
+          {
+            "score": 0.882284,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 89,
+        "text": "But of course, you will clearly understand that all communication between yourself and my daughter must cease immediately from this moment.",
+        "tones": [
+          {
+            "score": 0.762356,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          },
+          {
+            "score": 0.961633,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 90,
+        "text": "On this point, as indeed on all points, I am firm.",
+        "tones": [
+          {
+            "score": 0.98207,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      },
+      {
+        "sentence_id": 91,
+        "text": "I am engaged to be married to Gwendolen, Lady Bracknell!",
+        "tones": [
+          {
+            "score": 0.755283,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 92,
+        "text": "You are nothing of the kind, sir.",
+        "tones": [
+          {
+            "score": 0.91961,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 93,
+        "text": "And now, as regards Algernon! . . .",
+        "tones": []
+      },
+      {
+        "sentence_id": 94,
+        "text": "Algernon!",
+        "tones": []
+      },
+      {
+        "sentence_id": 95,
+        "text": "Yes, Aunt Augusta.",
+        "tones": []
+      },
+      {
+        "sentence_id": 96,
+        "text": "May I ask if it is in this house that your invalid friend Mr. Bunbury resides?",
+        "tones": [
+          {
+            "score": 0.600996,
+            "tone_id": "sadness",
+            "tone_name": "Sadness"
+          },
+          {
+            "score": 0.615352,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.506763,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 97,
+        "text": "Stammering.",
+        "tones": []
+      },
+      {
+        "sentence_id": 98,
+        "text": "Oh! No! Bunbury doesn’t live here.",
+        "tones": [
+          {
+            "score": 0.654599,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 99,
+        "text": "Bunbury is somewhere else at present.",
+        "tones": [
+          {
+            "score": 0.75152,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          },
+          {
+            "score": 0.620279,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      }
+    ],
+    "chapter": 3
+  }
+]
