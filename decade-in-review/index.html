@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lora:300,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="normalize.css">
+  <link rel="stylesheet" href="index.css">
+
+  <title>A Decade in Review: 2010-2019</title>
+</head>
+
+<body>
+  <div class="mobile">
+    This project was created for desktop, however 
+    the mobile version is in exploration stage.</div>
+  <div class="container">
+    <!-- <div class="col-1">
+      <h1>2010-2019: Decade in Review</h1>
+
+      <div class="grid-parent grid-text">
+        <div class="grid-col">
+          <p class="content-1">
+            As 2019 comes to a close, this visualization takes a look at some of the biggest news stories from the last ten years. 
+            Early in the decade we saw a financial crisis unfold in Europe, high unemployment rates in the United States, and protests in Arab countries. 
+            The middle of the decade was marked by social injustice protests, the Black Lives Matter Movement, the beginning of the Hong Kong Protests, and a Refugee Crisis in Europe.
+          </p>
+        </div>
+        <div class="grid-col">
+          <p class="content-2">
+            The last third of the decade saw the Trump presidency, #MeToo movement, US immigration crisis, and weather catastrophes.
+            Top musicians included Adele and Beyonce. 
+            Superheroes topped the big screen with movies such as the Avengers and Wonder Woman. 
+            In sports we learned of Armstrong's doping, watched Chloe Kim snowboard the halfpipe, and witnessed Serena Williams win the Austrailian Open whilst pregnant.
+          </p>
+        </div>
+      </div>
+
+      <div id="first-what-do-you-remember">
+        <h3>Top six memories of all time</h3>
+
+        <div class="grid-parent top-events top-events"></div>
+      </div>
+    </div> -->
+
+    <div class="flex-parent">
+      <div class="col-2">
+        <div id="svg-container">
+          <div id="event-desc-top" class="event-desc hide-to-start">
+            <div class="date"></div>
+            <div class="name"></div>
+          </div>
+
+          <div id="event-desc-bottom" class="event-desc hide-to-start">
+            <div class="desc"></div>
+            <div class="more"></div>
+            <div class="btn remember"><a href="#"><img src="images/assets/svg/star-unfilled.svg" />I remember</a></div>
+          </div>
+
+          <div class="prev">&#9664;</div>
+          <div class="next">&#9654;</div>
+
+          <div class="callout hide-to-start" id="callout-2011">
+            <p>
+              "2011: The year <br> when a lot <br> happened" - BBC
+            </p>
+          </div>
+          <div class="callout hide-to-start" id="callout-2015">
+            <p>
+              "Thank you and goodnight."<br>- David Letterman
+            </p>
+          </div>
+          <div class="callout hide-to-start" id="callout-2014">
+            <p>
+              "There’s a world out there. Open a window, and it’s there.""<br>- Robin Williams
+            </p>
+          </div>
+          <div class="callout hide-to-start" id="callout-2016">
+            <p>
+              Was 2016 the worst year in history? Check out some 
+              <a href="http://www.slate.com/articles/news_and_politics/history/2016/07/is_2016_the_worst_year_in_history.html">
+              really bad years</a>.
+            </p>
+          </div>
+          <div class="callout hide-to-start" id="callout-2018">
+            <p>
+              "Senator, we run ads."<br>- Mark Zuckerberg
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-1">
+        <h1>A Decade in Review (2010-2019)</h1>
+        <p class="byline">A visualization by <a href="#footer">Tiffany France</a></p>
+        <hr>
+        <div class="grid-parent grid-text">
+          <div class="grid-col">
+            <p class="content-1">
+              As 2019 comes to a close, this visualization takes a look at some of the biggest news stories from the last ten years. 
+              Early in the decade we saw a financial crisis unfold in Europe, high unemployment rates in the United States, and protests in Arab countries. 
+              The middle of the decade was marked by social injustice protests, the Black Lives Matter Movement, the beginning of the Hong Kong Protests, and a Refugee Crisis in Europe.
+            </p>
+          </div>
+          <div class="grid-col">
+            <p class="content-2">
+              The last third of the decade saw the Trump presidency, #MeToo movement, US immigration crisis, and weather catastrophes.
+              Top musicians included Adele and Beyonce. 
+              Superheroes topped the big screen with movies such as the Avengers and Wonder Woman. 
+              In sports we learned of Armstrong's doping, watched Chloe Kim snowboard the halfpipe, and witnessed Serena Williams win the Austrailian Open whilst pregnant.
+            </p>
+          </div>
+        </div>
+        <h2>Top events "remembered" from this site</h2>
+        <div class="grid-float top-events top-events"></div>
+        <div style="clear:both;"></div>
+      </div>
+
+    <div id="filters" class="col-full">
+      <h3>Filters +</h3>
+      <button category="Entertainment">Entertainment</button>
+      <button category="Sports">Sports</button>
+      <button category="Weather">Weather</button>
+      <button category="Meme">Memes/Viral</button>
+      <button category="Science">Science</button>
+      <button category="World">World</button>
+      <button category="US">US</button>
+      <button category="BLM">Black Lives Matter</button>
+      <button category="Women">Gender Equality</button>      
+      <button category="Environment">Environment</button>
+      <button category="Royals">Royal Family</button>
+      <button category="Trump">Trump</button>
+      <button category="GunViolence">Gun Violence</button>
+    </div>
+  
+  </div>
+  <div class="container">
+    <div id="second-what-do-you-remember">
+     
+    </div>
+  </div>
+
+  <div class="container submit">
+    <h2>Did we miss an important event? <a href="https://forms.gle/9bqioMgYTnjbE5TE6">Submit it here.</a></h2>
+  </div>
+
+  <div id="footer" class="footer">
+      <a href="mailto:info@tiffanyfrance.com">info@tiffanyfrance.com</a><br />
+      Special thanks to <a target="_blank" href="https://twitter.com/AntonPantev">Anton Pantev.
+  </div>
+
+  <script src="moment.min.js"></script>
+  <script src="d3.min.js"></script>
+  <script src="jquery-3.4.1.min.js"></script>
+  <script src="index.js"></script>
+</body>
+
+</html>
