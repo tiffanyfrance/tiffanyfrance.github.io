@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="shortcut icon" href="favicon.ico">
+  <title>Florida Seagrass Foodweb Visualization</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="normalize.css">
+</head>
+
+<body>
+  <!-- <div class="location"><img src="location.png" alt="St. Marks National Wildlife Refuge"></div> -->
+  <div class="header">
+    <h1>
+      <span>Florida Seagrass</span>
+      Foodweb Network
+    </h1>
+    <div class="desktop">
+      <p>
+        Developing even a small portion of the Florida seagrass water way has a profound on the surronding ecosystem. 
+        This food diagram network shows the connection of prey/predator web, and the ripple affect when you remove a 
+        single component. This diagram is the result of a study performed in 1994 in St. Marks National Wildlife Refuge.  
+        <a href="http://www.web-of-life.es/map.php">[data src]</a>
+      </p>
+    </div>
+  </div>
+  <!-- <div class="callout1 callout">
+    <p>
+      Trophic Level 1 are
+      energy producers. 
+      Removing them from the ecosystem removes them as a food source for other consumers. 
+      Removing those consumers has a chain reaction affect. 
+      Click on a node to see the web.
+    </p>
+  </div> -->
+  <div id="viz"></div>
+  <div class="mobile">
+    <p>
+      This network diagram visualizes foodweb ecosystems in trophic environments. Data was collected from St. Marks
+      National Wildlife Refuge (Jan/Feb 1994), published as
+      <a href="http://www.web-of-life.es/map.php">"Organizing and understanding a winter’s seagrass foodweb
+        network through effective trophic levels".</a> Click on a node to follow the ecosystem food chain.
+    </p>
+  </div>
+  <div class="tooltip"></div>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="anime.min.js"></script>
+  <script src="index.js"></script>
+</body>
+
+</html>

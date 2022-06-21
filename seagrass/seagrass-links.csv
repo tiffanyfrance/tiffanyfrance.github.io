@@ -1,0 +1,222 @@
+source,target,amount
+Microfauna,Benthic bacteria,65
+Meiofauna,Benthic bacteria,8
+Hermit crabs,Benthic bacteria,1
+Brittle stars,Benthic bacteria,9.5
+Deposit-feeding peracaridan crustaceans,Benthic bacteria,9.5
+Deposit-feeding gastropods,Benthic bacteria,1
+Deposit-feeding polychaetes,Benthic bacteria,0.5
+Predatory polychaetes,Benthic bacteria,1
+Microfauna,Microfauna,5
+Meiofauna,Microfauna,4
+Brittle stars,Microfauna,3
+Deposit-feeding peracaridan crustaceans,Microfauna,3
+Deposit-feeding gastropods,Microfauna,1
+Deposit-feeding polychaetes,Microfauna,1.5
+Predatory polychaetes,Microfauna,1
+Meiofauna,Meiofauna,3
+Hermit crabs,Meiofauna,9
+Brittle stars,Meiofauna,10
+Predatory shrimps,Meiofauna,16.9
+Sheepshead minnow,Meiofauna,1
+Killifishes,Meiofauna,9
+Gobies and blennies,Meiofauna,33
+Pinfish,Meiofauna,43
+Spot,Meiofauna,60
+Pipefish and seahorses,Meiofauna,40
+Deposit-feeding gastropods,Meiofauna,1
+Deposit-feeding polychaetes,Meiofauna,18
+Predatory polychaetes,Meiofauna,42.5
+Microprotozoa,Bacterioplankton,47
+Suspension-feeding molluscs,Bacterioplankton,14
+Zooplankton,Bacterioplankton,7
+Microprotozoa,Microprotozoa,3
+Suspension-feeding molluscs,Microprotozoa,6
+Zooplankton,Microprotozoa,5
+Omnivorous crabs,Epiphyte-grazing amphipods,3
+Predatory shrimps,Epiphyte-grazing amphipods,8
+Tonguefish,Epiphyte-grazing amphipods,66
+Atlantic silverside and bay anchovies,Epiphyte-grazing amphipods,23.1
+Sheepshead minnow,Epiphyte-grazing amphipods,2
+Killifishes,Epiphyte-grazing amphipods,4
+Gobies and blennies,Epiphyte-grazing amphipods,30
+Pinfish,Epiphyte-grazing amphipods,6
+Spot,Epiphyte-grazing amphipods,2
+Pipefish and seahorses,Epiphyte-grazing amphipods,27
+Red drum,Epiphyte-grazing amphipods,7
+Predatory polychaetes,Epiphyte-grazing amphipods,1
+Omnivorous crabs,Suspension-feeding molluscs,0.5
+Gobies and blennies,Suspension-feeding molluscs,0.5
+Predatory polychaetes,Suspension-feeding molluscs,0.5
+Herbivorous ducks,Suspension-feeding molluscs,0.5
+Omnivorous crabs,Hermit crabs,7
+Blue crabs,Hermit crabs,74
+Catfish and stingrays,Hermit crabs,5
+Red drum,Hermit crabs,5
+Benthos-eating birds,Hermit crabs,15
+Fish and crustacean-eating birds,Hermit crabs,3.5
+Gulls,Hermit crabs,6
+Blue crabs,Omnivorous crabs,1
+Predatory shrimps,Omnivorous crabs,3
+Catfish and stingrays,Omnivorous crabs,0.5
+Gobies and blennies,Omnivorous crabs,3.5
+Red drum,Omnivorous crabs,5
+Benthos-eating birds,Omnivorous crabs,1.5
+Gulls,Omnivorous crabs,3
+Gulls,Blue crabs,0.5
+Southern hake and sea robins,Isopods,20
+Gobies and blennies,Isopods,13
+Pipefish and seahorses,Isopods,12.5
+Atlantic silverside and bay anchovies,Brittle stars,8.5
+Omnivorous crabs,Deposit-feeding peracaridan crustaceans,1.5
+Predatory shrimps,Deposit-feeding peracaridan crustaceans,6.6
+Tonguefish,Deposit-feeding peracaridan crustaceans,34
+Southern hake and sea robins,Deposit-feeding peracaridan crustaceans,1
+Atlantic silverside and bay anchovies,Deposit-feeding peracaridan crustaceans,13
+Sheepshead minnow,Deposit-feeding peracaridan crustaceans,1
+Killifishes,Deposit-feeding peracaridan crustaceans,2
+Gobies and blennies,Deposit-feeding peracaridan crustaceans,17
+Pinfish,Deposit-feeding peracaridan crustaceans,3
+Spot,Deposit-feeding peracaridan crustaceans,1.5
+Pipefish and seahorses,Deposit-feeding peracaridan crustaceans,12.5
+Red drum,Deposit-feeding peracaridan crustaceans,7.5
+Predatory polychaetes,Deposit-feeding peracaridan crustaceans,0.5
+Blue crabs,Herbivorous shrimps,5
+Predatory shrimps,Herbivorous shrimps,2.5
+Southern hake and sea robins,Herbivorous shrimps,10
+Atlantic silverside and bay anchovies,Herbivorous shrimps,2.5
+Pipefish and seahorses,Herbivorous shrimps,0.5
+Blue crabs,Predatory shrimps,0.5
+Southern hake and sea robins,Predatory shrimps,27
+Atlantic silverside and bay anchovies,Predatory shrimps,7
+Spot,Predatory shrimps,0.5
+Pipefish and seahorses,Predatory shrimps,0.5
+Fish and crustacean-eating birds,Predatory shrimps,0.5
+Gulls,Predatory shrimps,0.5
+Raptors,Catfish and stingrays,19
+Fish-eating birds,Gulf flounder and needlefish,1
+Raptors,Gulf flounder and needlefish,8
+Blue crabs,Southern hake and sea robins,0.5
+Red drum,Southern hake and sea robins,1
+Fish and crustacean-eating birds,Southern hake and sea robins,2
+Fish and crustacean-eating birds,Atlantic silverside and bay anchovies,1
+Gulls,Atlantic silverside and bay anchovies,2.5
+Red drum,Sheepshead minnow,1
+Fish-eating birds,Sheepshead minnow,0.5
+Fish and crustacean-eating birds,Sheepshead minnow,0.8
+Gulls,Sheepshead minnow,2
+Raptors,Sheepshead minnow,2
+Red drum,Killifishes,1
+Fish and crustacean-eating birds,Killifishes,1
+Fish and crustacean-eating birds,Gobies and blennies,1
+Gulf flounder and needlefish,Pinfish,2
+Killifishes,Pinfish,1
+Fish and crustacean-eating birds,Pinfish,1
+Catfish and stingrays,Spot,2
+Gulf flounder and needlefish,Spot,98
+Southern hake and sea robins,Spot,41
+Atlantic silverside and bay anchovies,Spot,26
+Killifishes,Spot,11
+Red drum,Spot,8
+Fish-eating birds,Spot,5
+Fish and crustacean-eating birds,Spot,40.2
+Blue crabs,Pipefish and seahorses,9
+Red drum,Pipefish and seahorses,0.5
+Raptors,Red drum,2
+Omnivorous crabs,Deposit-feeding gastropods,4.5
+Predatory shrimps,Deposit-feeding gastropods,18
+Predatory gastropods,Deposit-feeding gastropods,30
+Predatory polychaetes,Deposit-feeding gastropods,38
+Benthos-eating birds,Deposit-feeding gastropods,70
+Herbivorous ducks,Deposit-feeding gastropods,23
+Benthos-eating birds,Epiphyte-grazing gastropods,0.5
+Predatory gastropods,Other gastropods,0.5
+Predatory polychaetes,Other gastropods,1
+Benthos-eating birds,Other gastropods,1
+Omnivorous crabs,Deposit-feeding polychaetes,2.6
+Predatory shrimps,Deposit-feeding polychaetes,14.1
+Catfish and stingrays,Deposit-feeding polychaetes,1.5
+Atlantic silverside and bay anchovies,Deposit-feeding polychaetes,10
+Pinfish,Deposit-feeding polychaetes,5.5
+Spot,Deposit-feeding polychaetes,8
+Pipefish and seahorses,Deposit-feeding polychaetes,2.2
+Red drum,Deposit-feeding polychaetes,7
+Predatory polychaetes,Deposit-feeding polychaetes,5.5
+Benthos-eating birds,Deposit-feeding polychaetes,6.5
+Omnivorous crabs,Predatory polychaetes,0.9
+Predatory shrimps,Predatory polychaetes,7
+Atlantic silverside and bay anchovies,Predatory polychaetes,4
+Pinfish,Predatory polychaetes,2
+Spot,Predatory polychaetes,2
+Pipefish and seahorses,Predatory polychaetes,0.8
+Red drum,Predatory polychaetes,3
+Benthos-eating birds,Predatory polychaetes,3
+Predatory shrimps,Suspension-feeding polychaetes,1.9
+Atlantic silverside and bay anchovies,Suspension-feeding polychaetes,1
+Pinfish,Suspension-feeding polychaetes,0.5
+Spot,Suspension-feeding polychaetes,0.5
+Red drum,Suspension-feeding polychaetes,0.5
+Benthos-eating birds,Suspension-feeding polychaetes,0.5
+Southern hake and sea robins,Zooplankton,1
+Sheepshead minnow,Zooplankton,1
+Killifishes,Zooplankton,1
+Gobies and blennies,Zooplankton,3
+Pinfish,Zooplankton,16
+Spot,Zooplankton,0.5
+Pipefish and seahorses,Zooplankton,2
+Suspension-feeding polychaetes,Zooplankton,1
+Epiphyte-grazing amphipods,Halodule,10
+Spider crabs,Halodule,90
+Omnivorous crabs,Halodule,25
+Isopods,Halodule,50
+Herbivorous shrimps,Halodule,50
+Predatory shrimps,Halodule,1
+Catfish and stingrays,Halodule,1
+Herbivorous ducks,Halodule,62.5
+Epiphyte-grazing amphipods,Micro-epiphytes,30
+Spider crabs,Micro-epiphytes,5
+Omnivorous crabs,Micro-epiphytes,5
+Isopods,Micro-epiphytes,50
+Herbivorous shrimps,Micro-epiphytes,50
+Predatory shrimps,Micro-epiphytes,6
+Epiphyte-grazing gastropods,Micro-epiphytes,100
+Other gastropods,Micro-epiphytes,100
+Herbivorous ducks,Micro-epiphytes,3
+Meiofauna,Macro-epiphytes,25
+Sheepshead minnow,Macro-epiphytes,81
+Killifishes,Macro-epiphytes,56
+Microfauna,Benthic algae,20
+Epiphyte-grazing amphipods,Benthic algae,29
+Hermit crabs,Benthic algae,45
+Spider crabs,Benthic algae,5
+Brittle stars,Benthic algae,37.5
+Deposit-feeding peracaridan crustaceans,Benthic algae,37.5
+Sheepshead minnow,Benthic algae,7
+Pinfish,Benthic algae,23
+Spot,Benthic algae,25
+Pipefish and seahorses,Benthic algae,2
+Deposit-feeding gastropods,Benthic algae,48
+Deposit-feeding polychaetes,Benthic algae,25
+Suspension-feeding polychaetes,Benthic algae,99
+Meiofauna,Phytoplankton,60
+Bacterioplankton,Phytoplankton,100
+Microprotozoa,Phytoplankton,40
+Suspension-feeding molluscs,Phytoplankton,80
+Atlantic silverside and bay anchovies,Phytoplankton,4.9
+Predatory polychaetes,Phytoplankton,9
+Zooplankton,Phytoplankton,88
+Benthic bacteria,Detritus,100
+Microfauna,Detritus,10
+Microprotozoa,Detritus,10
+Epiphyte-grazing amphipods,Detritus,31
+Hermit crabs,Detritus,45
+Omnivorous crabs,Detritus,50
+Brittle stars,Detritus,40
+Deposit-feeding peracaridan crustaceans,Detritus,50
+Predatory shrimps,Detritus,15
+Sheepshead minnow,Detritus,7
+Killifishes,Detritus,16
+Pinfish,Detritus,1
+Deposit-feeding gastropods,Detritus,49
+Predatory gastropods,Detritus,69.5
+Deposit-feeding polychaetes,Detritus,50
