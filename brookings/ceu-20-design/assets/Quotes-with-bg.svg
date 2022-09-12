@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #003a70;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Quotes-with-bg" transform="translate(-70 -877)">
+    <circle id="Ellipse_36" data-name="Ellipse 36" class="cls-1" cx="22.5" cy="22.5" r="22.5" transform="translate(70 877)"/>
+    <path id="Path_184" data-name="Path 184" class="cls-2" d="M-2.246-36.743v3.735a5.834,5.834,0,0,0-2.661.647,2.966,2.966,0,0,0-1.27,1.782,13.06,13.06,0,0,0-.366,3.528h4.3v8.911H-11.06v-8.472q0-5.249,2.234-7.69T-2.246-36.743Zm13.306,0v3.735a6.084,6.084,0,0,0-2.661.623A3.01,3.01,0,0,0,7.092-30.6a12.188,12.188,0,0,0-.4,3.552h4.37v8.911H2.2v-8.472q0-5.249,2.222-7.69T11.06-36.743Z" transform="translate(92 926)"/>
+  </g>
+</svg>
