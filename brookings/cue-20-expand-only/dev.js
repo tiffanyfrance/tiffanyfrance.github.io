@@ -39,6 +39,8 @@ jQuery('#date-slider .next').click(function () {
 
 jQuery('#date-slider .menu-item').click(function () {
 	selectTimelineItem(this.dataset.index);
+	jQuery('.timeline-work.selected').get(0).scrollIntoView();
+    jQuery('#timeline').get(0).scrollIntoView();
 });
 
 jQuery('.timeline-work h2').each((i, elem) => {
@@ -79,7 +81,7 @@ function autoExpandTimeline() {
 	let showIndex = 0;
 
 	jQuery('.timeline-work').each((i, elem) => {
-		if (!elem.classList.contains('hide') && window.scrollY >= (elem.offsetTop - 250)) {
+		if (!elem.classList.contains('hide') && window.scrollY >= (elem.offsetTop - 350)) {
 			showIndex = i;
 		}
 	});

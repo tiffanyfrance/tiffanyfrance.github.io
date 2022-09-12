@@ -109,19 +109,25 @@
 #cue-20 .description .flex-items {
 	max-height: 1000px;
 	opacity: 1;
-	will-change: width, max-height, opacity;
-	transition: width 1.0s, max-height 1.0s, opacity 1.0s;
+	/* will-change: width, max-height, opacity;
+	transition: width 1.0s, max-height 1.0s, opacity 1.0s; */
 }
 
 #cue-20 .description .flex-items:nth-child(1) {
 	width: 50%;
 }
+#cue-20 .description .flex-items:nth-child(1) p {
+	width: 100%;
+}
 #cue-20 .description .flex-items:nth-child(2) {
-	width: 50%;
+	max-width: 50%;
+	will-change: width, max-height, opacity;
+	transition: width 1.0s, max-height 1.0s, opacity 1.0s;
 }
 
 #cue-20 #timeline img {
-	max-width: 448px;
+	max-width: 100%;
+	/* width: 448px; */
 	max-height: 300px;
 	transform: scale(1, 1);
 	transition: transform 1.0s;
