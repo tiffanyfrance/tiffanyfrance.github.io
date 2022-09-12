@@ -223,7 +223,7 @@
 	opacity: 0;
 }
 
-/* #cue-20 #content .timeline-work.minimal .description .flex-items:nth-child(1) {
+#cue-20 #content .timeline-work.minimal .description .flex-items:nth-child(1) {
 	width: 100%;
 }
 
@@ -244,4 +244,4 @@
 #cue-20 #content .timeline-work.minimal .description .flex-items:nth-child(2) img, 
 #cue-20 #content .timeline-work.minimal .description .flex-items:nth-child(2) iframe {
 	transform: scale(0, 0);
-} */
+}
