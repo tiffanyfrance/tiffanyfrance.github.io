@@ -35,7 +35,7 @@ jQuery('.timeline-work').each((i, elem) => {
 	jQuery('#date-slider-content').append(`<div class="menu-item" style="top: ${top}px;" data-index="${i}"><div class="circle"></div><span>${year}</span></div>`);
 });
 
-jQuery('#date-slider-content').append(`<div class="next"><span class="muted">BOTTOM</span><img src="${BASE_URL}/assets/arrow-down-icon.svg"></div>`);
+jQuery('#date-slider-content').append(`<div class="next"><span class="muted">BOTTOM</span><img src="assets/arrow-down-icon.svg"></div>`);
 
 jQuery('#date-slider .prev').click(() => {
 	selectAndScrollToTimelineItem(0);
